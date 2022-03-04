@@ -1,0 +1,57 @@
+,feature_name,left_attribute,right_attribute,left_attr_tokenizer,right_attr_tokenizer,simfunction,function,function_source,is_auto_generated
+0,title_title_jac_qgm_3_qgm_3,title,title,qgm_3,qgm_3,jaccard,<function title_title_jac_qgm_3_qgm_3 at 0x7f7f22f231e0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""title""]), qgm_3(rtuple[""title""])) ",True
+1,title_title_cos_dlm_dc0_dlm_dc0,title,title,dlm_dc0,dlm_dc0,cosine,<function title_title_cos_dlm_dc0_dlm_dc0 at 0x7f7f22f23378>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_cos_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return cosine(dlm_dc0(ltuple[""title""]), dlm_dc0(rtuple[""title""])) ",True
+2,title_title_mel,title,title,,,monge_elkan,<function title_title_mel at 0x7f7f22f23268>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_mel(ltuple, rtuple):
+    return monge_elkan(ltuple[""title""], rtuple[""title""])",True
+3,title_title_lev_dist,title,title,,,lev_dist,<function title_title_lev_dist at 0x7f7f22f232f0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""title""], rtuple[""title""])",True
+4,title_title_lev_sim,title,title,,,lev_sim,<function title_title_lev_sim at 0x7f7f22ad9840>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""title""], rtuple[""title""])",True
+5,authors_authors_jac_qgm_3_qgm_3,authors,authors,qgm_3,qgm_3,jaccard,<function authors_authors_jac_qgm_3_qgm_3 at 0x7f7f22ad9ae8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def authors_authors_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""authors""]), qgm_3(rtuple[""authors""])) ",True
+6,authors_authors_cos_dlm_dc0_dlm_dc0,authors,authors,dlm_dc0,dlm_dc0,cosine,<function authors_authors_cos_dlm_dc0_dlm_dc0 at 0x7f7f25d97400>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def authors_authors_cos_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return cosine(dlm_dc0(ltuple[""authors""]), dlm_dc0(rtuple[""authors""])) ",True
+7,authors_authors_mel,authors,authors,,,monge_elkan,<function authors_authors_mel at 0x7f7f25d970d0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def authors_authors_mel(ltuple, rtuple):
+    return monge_elkan(ltuple[""authors""], rtuple[""authors""])",True
+8,authors_authors_lev_dist,authors,authors,,,lev_dist,<function authors_authors_lev_dist at 0x7f7f22bb8950>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def authors_authors_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""authors""], rtuple[""authors""])",True
+9,authors_authors_lev_sim,authors,authors,,,lev_sim,<function authors_authors_lev_sim at 0x7f7f25d70bf8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def authors_authors_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""authors""], rtuple[""authors""])",True
+10,year_year_exm,year,year,,,exact_match,<function year_year_exm at 0x7f7f25d70e18>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_exm(ltuple, rtuple):
+    return exact_match(ltuple[""year""], rtuple[""year""])",True
+11,year_year_anm,year,year,,,abs_norm,<function year_year_anm at 0x7f7f25d70ea0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""year""], rtuple[""year""])",True
+12,year_year_lev_dist,year,year,,,lev_dist,<function year_year_lev_dist at 0x7f7f25d70f28>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""year""], rtuple[""year""])",True
+13,year_year_lev_sim,year,year,,,lev_sim,<function year_year_lev_sim at 0x7f7f25d70d08>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""year""], rtuple[""year""])",True

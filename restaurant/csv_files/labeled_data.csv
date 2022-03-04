@@ -1,0 +1,401 @@
+_id,ltable_id,rtable_id,ltable_name,ltable_addr,rtable_name,rtable_addr,gold
+627,8,2437,bogota latin bistro,141 5th ave,asian bistro,70 7th ave,0
+1690,74,1175,monsignors restaurant,679 5th ave,morning star restaurant,879 9th ave,0
+2650,109,2339,bo ky restaurant,80 bayard st,69 bayard restaurant corp,69 bayard st,0
+3273,154,1568,ipanema restaurant,43 w 46th st,demarchelier restaurant,50 e 86th st,0
+4613,215,2445,eleven madison park,11 madison ave,eleven madison park,11 madison ave,1
+9751,546,143,pepolino restaurant,281 w broadway,quoc & huong restaurant,1 e broadway,0
+11563,556,2933,lasso pizza,192 mott st,cultura pizza,151 mott st,0
+11713,559,516,the nomad restaurant,1170 broadway,el presidente restaurant,3938 broadway,0
+14129,624,2421,juniors restaurant,1515 broadway,josephina restaurant,1900 broadway,0
+17649,774,102,rabbithole restaurant,352 bedford ave,okura japanese restaurant inc,519 3rd ave,0
+19211,815,1691,hillstone restaurant,153 e 53rd st,chelsea square restaurant,368 w 23rd st,0
+19982,832,2282,cabana restaurant,1022 3rd ave,jaiya thai restaurant,396 3rd ave frnt 1,0
+23586,953,904,sweet chick,178 ludlow st,sweet chick,178 ludlow st,1
+25684,1041,3089,han bat sul lung tang,4163 w 5th st,han bat shul lung tang,4163 w 5th st,1
+26518,1052,5907,guelaguetza restaurante,3014 w olympic blvd,seoul garden restaurant,1833 w olympic blvd,0
+26548,1055,4340,franco on melrose,6919 melrose ave,the foundry on melrose,7465 melrose ave,0
+29942,1101,5255,andres italian restaurant,6332 w 3rd st,eva's lechon & restaurant,4252 w 3rd st,0
+30124,1109,5552,suehiro cafe,337 e 1st st,suehiro cafe inc,337 e 1st st,1
+32323,1148,4022,golden mongolian restaurant,3012 wilshire blvd,el buen gusto restaurant family,"3140 glendale blvd, los angeles, ca 90039",0
+32475,1148,4616,golden mongolian restaurant,3012 wilshire blvd,kuishimbo restaurant,4001 wilshire blvd,0
+33825,1157,4130,wilde wine bar & restaurant,320 south la brea,little kitchen restaurant,1292 s la brea ave,0
+34292,1165,5421,the park,1400 sunset blvd,the pikey,7617 w sunset blvd,0
+34834,1184,5196,hello italian fusion restaurant,607 s western ave ste 201,clemen's restaurant,3551 s western ave,0
+35249,1204,3686,zermeos restaurant,6115 santa monica blvd,sunshine restaurant,5706 santa monica blvd,0
+36869,1229,4445,vintage enoteca,7554 w sunset blvd,vintage enoteca,7554 w sunset blvd,1
+37128,1250,3265,hae jang chon korean bbq restaurant,3821 w 6th st,shin jung restaurant,3450 w 6th st ste 101,0
+37533,1250,5384,hae jang chon korean bbq restaurant,3821 w 6th st,sabdari gom tang restaurant,3470 w 6th st,0
+37723,1255,5051,da jeong korean cuisine,3909 1/2 w olympic blvd,korean bbq,2897 w olympic blvd # 105,0
+38550,1261,3130,e-moon oak restaurant,869 s western ave ste 5,sigol restaurant,478 n western ave,0
+39112,1261,5494,e-moon oak restaurant,869 s western ave ste 5,joan & sisters restaurant,3709 s western ave,0
+40741,1282,3679,panns restaurant,6710 la tijera blvd,sompun thai restaurant,4156 santa monica blvd,0
+41282,1288,4577,shin-sen-gumi hakata ramen - west l.a.,1601 sawtelle blvd,hakata ramen shin-sen-gumi,1601 sawtelle blvd # 101,1
+42032,1296,3328,bossa nova on sunset,7181 w sunset blvd,siam sunset,5265 w sunset blvd,0
+42482,1316,3496,palms thai restaurant,5900 hollywood blvd ste b,palm thai restaurant,5900 hollywood blvd,1
+45318,1368,4517,hae ha heng thai bistro,301 s western ave ste 209,hae ha heng,301 s western ave ste 209,1
+45474,1378,4792,pita bar & grill,519 n fairfax ave,pita bar and grill,519 n fairfax ave,1
+45513,1383,5330,pacific dining car,1310 w 6th st,pacific dining car,1310 w 6th st,1
+46449,1397,3681,palm grove ethiopian restaurant,1905 s western ave,pipers restaurant,222 n western ave,0
+47770,1413,4811,sushi gen,422 e 2nd st,hama sushi,347 e 2nd st,0
+48962,1421,4571,bulrocho korean restaurant,955 s vermont st,texis restaurant,698 s vermont ave # 106,0
+49858,1450,3537,m grill,3832 wilshire blvd ste 202,panini grill & deli,5354 wilshire blvd,0
+49886,1450,4941,m grill,3832 wilshire blvd ste 202,india's grill,428 s san vicente blvd,0
+50347,1459,4423,franks restaurant,363 s fairfax ave,chameau restaurant,339 n fairfax ave,0
+51685,1467,3579,la abeja restaurant,3700 n figueroa st,la estrella restaurant,6103 n figueroa st,0
+52122,1467,5411,la abeja restaurant,3700 n figueroa st,ok chinese restaurant,6320 n figueroa st,0
+55366,1492,5191,patio burgers & beer,4541 eagle rock blvd,fusion burger,5933 york blvd,0
+56179,1509,2968,jeon ju restaurant,2716 w olympic blvd ste 101,playa las tunas restaurant,1107 s alvarado st ste 112,0
+56535,1509,4443,jeon ju restaurant,2716 w olympic blvd ste 101,hop li seafood restaurant,11901 santa monica blvd ste 102,0
+57972,1523,4116,seoul garden restaurant,1833 w olympic blvd,pho two thousand restaurant,2897 w olympic blvd,0
+59322,1533,3586,la caridad restaurant,2619 w sunset blvd,el cochinito restaurant,3508 w sunset blvd,0
+60458,1536,5240,keungama korean restaurant,3498 w 8th st,dong il jang restaurant,3455 w 8th st,0
+61394,1554,3157,curry house,123 s onizuka st ste 204,curry house,"123 s. onizuka st.,  # 204",1
+61486,1565,3865,western doma noodles,429 n western ave ste 10,western doma noodles apt 10,429 n western ave,1
+61655,1583,3287,carnitas michoacan,1901 n broadway,carnitas michoacan,1901 n broadway,1
+63762,1616,4859,hana ichimonme restaurant,333 s alameda st ste 303,pho hoa vietnamese restaurant,818 n spring st ste 103,0
+64477,1618,4885,marouch restaurant,4905 santa monica blvd.,harper's restaurant,10250 santa monica blvd ste 192,0
+69389,1676,4810,yakuza sushi,1700 silver lake blvd,sushi eyaki,5040 wilshire blvd,0
+70413,1689,5168,market place restaurant,1102 lawrence st,pupuseria restaurant mi pueblo,1341 e florence ave,0
+70430,1689,5230,market place restaurant,1102 lawrence st,family restaurant,2063 w florence ave,0
+70581,1689,5911,market place restaurant,1102 lawrence st,market place restaurant,1102 lawrence st,1
+70807,1705,3647,sadie kitchen and lounge,1638 n las palmas ave,sadie,1638 n las palmas ave,1
+73085,1732,3048,il capriccio on vermont,1757 n vermont ave,thai bbq vermont,851 s vermont ave,0
+79446,1887,3552,beverly soon tofu restaurant,2717 w olympic blvd ste 108,sabina's european restaurant,1253 vine st ste 12,0
+80038,1892,5432,the roof on wilshire,6317 wilshire blvd,11831 wilshire restaurant,11831 wilshire blvd,0
+80904,1905,4756,roccos italian kitchen,6335 wilshire blvd,yuko kitchen,5484 wilshire blvd,0
+80950,1911,3984,surawon,2833 w olympic blvd,surawon,2833 w olympic blvd,1
+81653,1915,3142,plan check kitchen + bar,1800 sawtelle blvd,plan check (wilshire),1111 wilshire blvd,0
+82753,1921,4416,soowon galbi kbbq restaurant,856 s vermont ave ste c,d & d restaurants,8330 s vermont ave,0
+84323,1934,4649,shintaro japanese restaurant,1900 n highland ave ste 5,lemon tree kids restaurant,"621 s. western avenue, suite 111",0
+88391,2044,7951,the chicago diner,3411 n halsted st,s & e diner,11117 s halsted st,0
+88768,2060,7399,hala in restaurant,4624 w lawrence ave,great sea chinese restaurant,3254 w lawrence ave ste 201,0
+90143,2089,7737,machu picchu restaurant,3856 n ashland ave,mama n'ems restaurant,5428 s ashland ave,0
+90232,2089,8224,machu picchu restaurant,3856 n ashland ave,young's restaurant,3949 n ashland ave,0
+92682,2148,7486,pita cafe,2014 w division,janik's cafe,2011 w division st,0
+94062,2200,8190,grill & garden restaurant,5318 n broadway st,furama restaurant,4936 n broadway st,0
+94291,2212,7723,phos spicier thai cuisine,3332 n lincoln ave,jim thai cuisine,2819 n lincoln ave,0
+97390,2325,7718,briannas restaurant,4911 n western ave,katachi japanese restaurant,3911 n sheridan rd,0
+98108,2350,8877,cozy corner restaurant & pancake house,2294 n milwaukee ave,roma restaurant,6161 n milwaukee ave,0
+99040,2365,6854,elizabeth restaurant,4835 n western ave unit d,thai room restaurant,4022 n western ave,0
+99386,2365,8745,elizabeth restaurant,4835 n western ave unit d,perkins restaurant & bakery,3111 s western ave,0
+100592,2384,8871,mak restaurant,1924 w division st,super pollo restaurant,4614 w diversey ave,0
+101250,2405,6426,cozy noodles & rice,3456 n sheffield ave,siam noodle & rice restaurant,4654 n sheridan rd,0
+101842,2419,8643,cro bar and restaurant,2506 n clybourn ave,arturos mexican restaurant,7151 s western ave,0
+101984,2422,6402,greek islands restaurant,200 s halsted st,nookies tree restaurant,3334 n halsted st,0
+102564,2433,7380,bopngrill belmont,921 w belmont ave,the belmont cafe,930 w belmont ave,0
+107917,2567,7208,osaka sushi express & fresh fruit smoothies,400 s michigan ave,osaka express inc,400 s michigan ave,1
+108728,2582,6393,emperors choice restaurant,2238 s wentworth ave,won kow restaurant,2237 s wentworth ave,0
+108831,2582,7012,emperors choice restaurant,2238 s wentworth ave,emperor's choice,2238 s wentworth ave,1
+109780,2586,7780,tom yum cafe,608 w barry ave,tom yum restaurant,608 w barry ave,1
+110048,2591,7172,great sea chinese restaurant,3254 w lawrence ave,red zin restaurant,4712 s saint lawrence ave,0
+112616,2667,6986,giordanos,223 w jackson blvd,giordano's,223 w jackson blvd,1
+115208,2719,8505,la villa restaurant & banquets,3632 n pulaski rd,manee thai restaurant,3558 n pulaski rd,0
+115572,2748,7502,naf naf grill,326 n michigan ave,la cantina grill,1911 s michigan ave,0
+116445,2771,8686,frontera grill,445 n clark st,sam's grill,416 n clark st,0
+120293,2921,6702,carnitas uruapan restaurant,1725 w 18th st,magic restauraunt,3335 w 111th st,0
+121905,2989,9007,la griglia restaurant,2002 west gray,njoy restaurant,212 westheimer rd,0
+123125,3002,11533,osaka japanese restaurant ii,4001 bellaire blvd ste j,east wall chinese restaurant,9889 bellaire blvd ste 301,0
+123259,3007,10170,kona grill,houston galleria 5061 westheimer rd,the capital grille,840 w sam houston pkwy n,0
+123953,3016,9228,up restaurant,3995 westheimer rd fl 3rd,abesha bar and restaurant,9100 westheimer rd ste 637,0
+125084,3029,10750,tan tan restaurant,8066 westheimer rd,chuan's chinese restaurant,5901 westheimer rd,0
+127608,3053,11243,kim tai restaurant,2602 fannin st,kim tai restaurant,2602 fannin st,1
+129312,3077,10824,luna y sol mexican grill,2808 milam st ste g,los cucos mexican cafe,5535 memorial dr ste g,0
+131415,3109,9924,chavez mexican cafe,2557 gessner rd,juarez mexican restaurant,2545 gessner rd,0
+131646,3123,9322,lucky palace korean restaurant,8508 bellaire blvd,kim chau restaurant,11210 bellaire blvd,0
+132271,3130,10141,pappasitos cantina,2515 south loop w,pappasito's cantina,2515 s loop w,1
+135763,3186,11801,one dragon restaurant,9310 bellaire blvd,arirang restaurant,9715 bellaire blvd,0
+135971,3189,9918,chuans chinese restaurant,5901 westheimer rd unit n,my amigos restaurant y cantina,12599 westheimer rd,0
+136291,3189,11610,chuans chinese restaurant,5901 westheimer rd unit n,pappas restaurants,9797 westheimer rd,0
+136569,3203,9281,hokkaido japanese restaurant,9108 bellaire blvd ste b,amaya restaurant,12468 bellaire blvd,0
+136601,3203,9433,hokkaido japanese restaurant,9108 bellaire blvd ste b,one dragon restaurant,9310 bellaire blvd,0
+136657,3203,9706,hokkaido japanese restaurant,9108 bellaire blvd ste b,kuu restaurant,947 gessner rd ste a180,0
+136715,3203,10025,hokkaido japanese restaurant,9108 bellaire blvd ste b,thai choice restaurant,11161 westheimer rd ste b,0
+138972,3266,9885,mason jar restaurant,9005 katy fwy,olive garden italian restaurant,9750 katy fwy,0
+141254,3292,9842,nippon japanese restaurant,4464 montrose blvd,shanghai restaurant,9888 bellaire blvd,0
+141280,3292,10000,nippon japanese restaurant,4464 montrose blvd,shanghai chinese restaurant,9116 bellaire blvd,0
+145137,3336,9249,laurenzos restaurant,4412 washington ave,benlis restaurant,5922 washington ave,0
+148773,3405,9712,the oaks restaurant,1600 holcombe blvd,viet huong restaurant,11209 bellaire blvd,0
+151012,3444,10067,himalaya restaurant & catering,6652 southwest fwy,texas seafood restaurant,10155 east fwy,0
+152684,3509,9278,azuma sushi & robata bar,909 texas st,azuma downtown,909 texas st,1
+154114,3529,10356,treebeards - the tunnel,1100 louisiana st,treebeards restaurant,801 louisiana st # 100,0
+156769,3561,11598,el rey taqueria,910 shepherd dr,taqueria el tapatio,4550 n.shepherd,0
+156916,3568,9150,osaka japanese restaurant,5709 woodway dr ste b,osaka japanese restaurant,5709 woodway dr,1
+157085,3568,9984,osaka japanese restaurant,5709 woodway dr ste b,doneraki restaurant,2903 woodridge dr ste 300,0
+159234,3592,9424,houstons restaurant,5888 westheimer rd,palm restaurant,6100 westheimer rd,0
+159328,3592,9864,houstons restaurant,5888 westheimer rd,thai restaurant,5757 westheimer rd,0
+159881,3608,11626,ottos,600 travis st,otto's,600 travis st,1
+160229,3615,10589,andalucia tapas restaurant & bar,1201 san jacinto st ste 161,lucky palace buffet restaurant,16211 clay rd ste 128,0
+161641,3636,10752,chachos mexican restaurant,6006 westheimer rd,shere punjav restaurant,12315 westheimer rd,0
+162697,3647,9864,house of pies restaurant & bakery,6142 westheimer rd,thai restaurant,5757 westheimer rd,0
+163781,3650,10245,sheger ethiopian restaurant,5506 bellaire blvd unit c,puerto rican restaurant,15115 bellaire blvd # b,0
+165211,3681,10281,mi pueblito restaurant,9425 richmond ave,el pueblito place,1423 richmond ave,0
+166906,3692,10074,ulas mexican restaurant & cantina,5555 washington ave,don luis mexican restaurant,7606 irvington blvd,0
+168252,3731,11796,peking cuisine restaurant,8332 southwest fwy,pappas restaurants,12010 east fwy,0
+171205,3779,10671,thai gourmet,6324 richmond ave,thai gourmet inc,6324 richmond ave,1
+171803,3781,10398,sushi wabi,3953 richmond ave,sushi wabi,3953 richmond ave,1
+172203,3799,10150,thai jasmine restaurant,10900 kingspoint rd ste 12,il me jung korean restaurant,10017 long point rd,0
+173794,3833,11623,ty seafood kitchen,11011 northwest fwy,seafood corner,12300 north fwy,0
+174142,3854,10946,bombay pizza co.,914 main st ste 105,pizza inn,12121 westheimer rd ste 122,0
+174889,3867,11494,noodles inc  pho restaurant,9820 gulf  fwy ste a11,los reyes mexican restaurant,5050 cypress creek pkwy ste 136,0
+179704,3999,13704,stos bar & restaurant,236 market st,sto's bar & restaurant,236 market st,1
+181270,4050,13251,saads halal restaurant,4500 walnut st,circa restaurant,1518 walnut st ste 903,0
+184110,4117,12031,mad greek restaurant and pizza,3517 lancaster ave,calabash restaurant and banquet,6208 lancaster ave,0
+187584,4169,14591,pattaya restaurant,4006 chestnut st,starr restaurant organization lp,2013 chestnut st,0
+187848,4185,14265,sams morning glory diner,735 s 10th st,morning glory,735 s 10th st,1
+189068,4190,12896,rangoon burmese restaurant,112 n 9th st,ralph's italian restaurant,760 s 9th st,0
+191417,4227,12258,thang long restaurant,2536 kensington ave,q q rotisserie and seafood restaurant,6320 stenton ave,0
+193451,4274,13651,ayas cafe,2129 arch st,s&c cafe,900 arch st,0
+193658,4286,14117,china house,2123 w oregon ave,china garden,8103 stenton ave,0
+194414,4324,13337,pho 75 restaurant,1122 washington ave,kma restaurant,3171 kensington ave,0
+194451,4324,13510,pho 75 restaurant,1122 washington ave,hai tien restaurant,1603 washington ave,0
+194652,4324,14561,pho 75 restaurant,1122 washington ave,golden restaurant,2136 stenton ave,0
+194850,4329,13418,warmdaddys,1400 columbus blvd,warmdaddy's,1400 s columbus blvd,1
+195822,4381,12328,the farm and fisherman,1120 pine st,the farm and fisherman,1120 pine st,1
+195921,4391,12065,tai lake restaurant,134 n 10th st,won oriental restaurant,216 s 40th st,0
+200695,4481,12202,sassafras bar,48 s 2nd st,sassafras,48 s 2nd st,1
+205829,4642,12910,alyans restaurant,603 s 4th st,rio corbe jamaican restaurant,524 s 4th st,0
+209860,4672,12914,my thai restaurant,2200 south st,latin flavor restaurant,627 south st,0
+212176,4694,14073,baby blues,3402 sansom st,baby blues bbq,3402 sansom st,1
+214701,4719,11924,circles contemporary asian,1514 tasker st,circles contemporary asian,1516 tasker st,1
+215681,4735,13492,kilimandjaro restaurant,4317 chestnut st,hua lai chinese restaurant,5148 walnut st,0
+215786,4735,14091,kilimandjaro restaurant,4317 chestnut st,little pete's restaurant,1904 chestnut st,0
+216061,4745,11899,el fuego,723 walnut st,el fuego,723 walnut st,1
+219229,4812,12321,freddy & tonys restaurant,201 w allegheny ave,freddy & tony's restaurant,201 w allegheny ave,1
+219266,4812,12527,freddy & tonys restaurant,201 w allegheny ave,eddie's chinese restaurant,113 e allegheny ave,0
+219796,4818,12313,sawatdee thai restaurant,534 s 15th st,maria's restaurant,4058 n 5th st,0
+220164,4818,14287,sawatdee thai restaurant,534 s 15th st,noly restaurant,2959 n 5th st,0
+220261,4818,14743,sawatdee thai restaurant,534 s 15th st,shiroi hana restaurant,222 s 15th st,0
+224647,4914,13719,red kings 2 restaurant,1006 race st,singapore chinese vegetarian restaurant,1006 race st,0
+225334,4921,14161,spring garden restaurant,400 spring garden st,sazon restaurant & cafe,941 spring garden st,0
+228161,4981,17440,salvadoreo restaurant,8911 n central ave ste 101,wingstop restaurant,1610 n 75th ave ste 110,0
+228166,4981,17511,salvadoreo restaurant,8911 n central ave ste 101,pho 602 vietnamese restaurant,6135 n 35th ave ste 121,0
+228282,4983,15732,islands restaurant,21001 n tatum blvd ste 36-1160,kampai japanese restaurant,2945 e bell rd ste 102,0
+228670,4990,15566,canyon cafe,455 n 3rd st ste 114,cayon cafe,455 n 3rd st # 114,1
+229150,4996,17441,juans authentic mexican food,1516 e thomas rd,la paloma mexican food,519 w thomas rd,0
+229341,5009,15422,paradise bakery & cafe,"phoenix sky harbor int'l airport, terminal 3 3400 e sky harbor blvd",paradise bakery & cafe,3400 e sky harbor blvd,1
+229629,5028,16722,maxim restaurant,3424 n 19th ave,wingstop restaurant,1515 n 7th ave ste 152,0
+230123,5039,17160,lunch time cafe,3330 n 35th ave,lunch time cafe,3330 n 35th ave ste 1,1
+230367,5045,15850,la oaxaquena mexican restaurant,10430 n 19th ave ste 7,mi patio mexican restaurant,3347 n 7th ave,0
+232247,5113,16442,el ranchero mexican restaurant,1900 e mcdowell rd,tomyum & thai restaurant,3510 e bell rd,0
+232716,5119,15594,guanaquito restaurant,1436 e mcdowell rd,restaurant sinaloa,2601 e bell rd,0
+233004,5125,15456,the haymaker restaurant,4717 e bell rd,ethiopian famous restaurant & cafe,4111 e mcdowell rd,0
+234748,5203,14875,az kabob house,7000 e mayo blvd ste 1060,zatoon kabob bistro,4804 e chandler blvd ste 108,0
+235084,5208,17159,carolinas mexican food,1122 e buckeye rd ste a5,santana's mexican food,1930 w buckeye rd,0
+235487,5223,16688,federal pizza,5210 n central ave,gino's pizza,6420 s central ave,0
+235688,5235,16206,forge pizza,2502 e camelback rd ste 148,cici's pizza,3911 e thomas rd ste g4,0
+235693,5235,16286,forge pizza,2502 e camelback rd ste 148,nypd pizza,1949 e camelback rd ste 144,0
+236436,5265,17316,los compadres mexican food,4414 n 7th ave,alfonso's mexican food,18631 n 19th ave,0
+237318,5304,15661,thai lotus restaurant,7023 n 19th ave,75th thai taste restuarant,1820 n 75th ave,0
+237970,5328,16082,hillstone restaurant,2650 e camelback rd,kwan & wok chinese restaurant,1702 w camelback rd ste 1,0
+238382,5341,16269,barros pizza,2510 w thunderbird rd ste 6,domino's pizza,3329 e bell rd ste 20,0
+238435,5343,17280,chicago gyros,717 w union hills dr ste 1,j t gyros,3434 w greenway rd ste 101,0
+238688,5351,15958,texas bbq house,5037 s 24th st,texas bbq house,5037 s 24th st # 3,1
+238954,5366,16522,welcome diner,924 e roosevelt st,welcome diner,924 e roosevelt st,1
+239036,5374,15767,burger mania,2302 w bell rd,whataburger,2901 e bell rd,0
+239386,5385,14794,al fuego mexican restaurant,2948 e bell rd ste 102,shangri-la chinese restaurant,2855 w cactus rd ste 2,0
+239482,5385,16064,al fuego mexican restaurant,2948 e bell rd ste 102,wingstop restaurant,5215 w indian school rd ste 103,0
+239510,5385,16438,al fuego mexican restaurant,2948 e bell rd ste 102,prime chinese restaurant,24 w camelback rd ste h,0
+240135,5394,15159,luckys burgers & hotdog grill,7000 e mayo blvd ste 1066,lucky's burgers & hotdog grill,7000 e mayo blvd,1
+240315,5400,17395,maizies cafe & bistro,4750 n central ave,maizie's cafe & bistro,4750 n central ave ste 140,1
+240713,5419,16206,nypd pizza,1949 e camelback rd ste 144,cici's pizza,3911 e thomas rd ste g4,0
+240916,5430,16411,mister wong,10627 n 19th ave,canton wong,6023 n 19th ave,0
+241080,5432,17028,azteca bakeries & restaurant,416 n 7th ave,kaova restaurante,5234 n 27th ave,0
+241838,5465,17402,quiessence restaurant,6106 s 32nd st,compass restaurant-hyatt,122 n 2nd st,0
+242083,5471,14861,rolandos mexican food,10639 n 35th ave,rivas mexican food,4012 n 75th ave,0
+242218,5474,15563,coup des tartes,1725 east osborn,coup des tartes,1725 e osborn rd,1
+242592,5482,16667,isas pizza,4001 e bell rd ste 112,domino's pizza,7710 w lower buckeye rd ste 110,0
+242605,5482,16811,isas pizza,4001 e bell rd ste 112,rosatis pizza,9971 w camelback rd ste 103,0
+242977,5497,16300,the grind,3961 e camelback rd,the grind,3961 e camelback rd,1
+243780,5516,15224,pita jungle,2530 w happy valley rd ste 1261,pita bistro,101 n 1st ave ste 101,0
+244596,5557,15890,las cazuelas mexican food restaurant,5150 w mcdowell rd,los alamos mexican food,2948 e bell rd,0
+244631,5557,16298,las cazuelas mexican food restaurant,5150 w mcdowell rd,filiberto's mexican food,1601 e mcdowell rd,0
+245128,5571,15851,mariscos chihuahua,1834 w indian school rd,senaduria mariscos altata,5005 w indian school rd,0
+245391,5580,15055,san carlos bay seafood restaurant,1901 e mcdowell rd,manuel's mexican restaurant,1111 w bell rd,0
+246370,5606,15751,pinos pizza al centro,139 w thomas rd,domino's pizza,5532 e thomas rd,0
+246376,5606,16079,pinos pizza al centro,139 w thomas rd,domino's pizza,4284 w thomas rd,0
+246841,5624,14883,tonys italian delicatessen,536 e dunlap ave,tony's italian delicatessen,536 e dunlap ave,1
+247175,5637,17347,the great dane restaurant,6219 n 7th st,fox restaurant,5640 n 7th st,0
+247320,5639,16508,gojo ethiopian restaurant,3015 e thomas rd ste 101,my big fat greek restaurant,2303 n 44th st ste 12,0
+247797,5671,15449,st. francis restaurant,111 e camelback rd,peter wong restaurant,1534 w camelback rd,0
+248463,5682,15737,zinburger,2502 east camelback road ste 127,hamburger haven,507 w thomas rd ste frnt,0
+248820,5692,16046,the corner cityscape,50 w jefferson st,chloe's corner,50 w jefferson st # 100,0
+249699,5715,15537,sabas mediterranean kitchen,4747 e bell rd,saba's mediterranean cuisine,4747 e bell rd ste 5,1
+251294,5762,16178,north italia,north arcadia 4925 n 40th st,north arcadia,4925 n 40th st,1
+252184,5777,17247,chanpen thai cuisine,2727 e broadway rd,chanpen thai cuisine,2727 e broadway rd,1
+252715,5792,16086,new garden restaurant,823 s central ave,new garden restaurant,823 s central ave,1
+252846,5794,14895,thai basil signature,114 w adams st ste 104,thai basil,4221 e chandler blvd ste 106,0
+253276,5812,16642,hong kong kitchen 3,510 e baseline rd d3,hong kong kitchen,510 e baseline rd,1
+253376,5816,15505,sushi style,401 e bell rd,sushi nola,5930 w mcdowell rd,0
+253389,5817,16081,pacifica ceviche,6544 w thomas rd,pacifica ceviche,6544 w thomas rd,1
+254418,5850,15301,don jose mexican food,3734 e thomas rd,fillbertos mexican food,3923 e thomas rd ste b5,0
+254606,5860,17476,scotts generations restaurant & delicatessen,5539 n 7th st ste 108,macalpine's restaurant & soda,2303 n 7th st,0
+255225,5868,15055,pollo correteado restaurant el,2904 w mcdowell rd,manuel's mexican restaurant,1111 w bell rd,0
+255522,5876,17071,escobar mexican kitchen,1219 e glendale ave ste 14,chipotle mexican grill,425 e bell rd suite 140,0
+255729,5883,15732,waamo restaurant,5050 e mcdowell rd,kampai japanese restaurant,2945 e bell rd ste 102,0
+266062,6072,17793,chachos mexican restaurant,7870 callaghan rd,sandia mexican restaurant & fruit,100 callaghan rd,0
+267258,6092,19079,chicagos pizza,5525 blanco rd ste 115,ray's pizzaria,7214 blanco road,0
+268049,6108,17854,kim wah chinese bbq,7080 bandera rd,peng's chinese restaurant,7015 bandera rd,0
+268909,6121,18863,mama margies mexican restaurant,7335 s zarzamora st,wingstop restaurant,6998 s zarzamora st,0
+270533,6166,18550,urban bricks pizza,17603 la cantera pkwy ste 119,urban bricks pizza,17603 la cantera pkwy,1
+274230,6244,18410,los ajos mexican grill,7616 culebra rd ste 109,san antonio mexican candies,3654 culebra rd,0
+277324,6304,20272,viet nam restaurant,3244 broadway st,vans chinese seafood restaurant,3214 broadway st,0
+282270,6386,19606,ali baba restaurant,7271 wurzbach rd ste 102,veracruz restaurant,7530 bandera rd ste 135,0
+282276,6386,19656,ali baba restaurant,7271 wurzbach rd ste 102,bean sprout chinese restaurant,25 ne loop 410 ste 119,0
+283201,6403,18522,biga on the banks,203 s saint marys st ste 100,windows on the river,217 n park blvd mary's,0
+283625,6415,18880,baghdad restaurant & bakery,5713 evers rd,maharaja indian restaurant,5718 evers rd,0
+284908,6447,18219,opah greek flavor,7400 san pedro ave,opah greek flavor,7400 san pedro ave,1
+285258,6455,19089,abuelas mexican restaurant,2313 nw military hwy,sim restaurant,5036 w military dr,0
+285836,6457,19697,smoke the restaurant,700 e sonterra blvd ste 1117,pearl inn chinese restaurant,11815 w interstate 10 ste 100,0
+290296,6513,18094,green vegetarian cuisine at pearl brewery,200 e grayson st ste 120,green vegetarian cuisine,200 e grayson st,1
+291926,6563,17863,410 diner,8315 broadway,410 diner,8315 broadway st,1
+292876,6569,19993,tommys restaurant,8823 wurzbach rd,jim's restaurant,8311 marbach rd,0
+298704,6639,18817,stouts pizza,1742 n loop 1604 e ste 123,villa pizza,7702 floyd curl dr ste 130,0
+299205,6643,18723,taqueria chapala jalisco,1819 mccullough ave,taqueria chapala jalisco,1902 mccullough ave,0
+300282,6675,17682,marcos pizza,5440 babcock rd ste 148,miss ellie's pizza,903 e bitters rd ste 301,0
+300384,6676,18636,naara cafe,9329 wurzbach rd ste 101,dresden cafe,3023 thousand oaks dr ste 106,0
+303261,6708,19745,chipotle mexican grill,438 nw loop 410 ste 101,michin fresh mexican kitchen,427 w loop 1604 n # 202,0
+305356,6728,18387,vida mia mexican cuisine,19141 stone oak pkwy suite 803,aldacos mexican cuisine,20079 stone oak pkwy,0
+305533,6733,19195,tealicious cafe,9234 n 1604 w,delicious garden,2815 n loop 1604 e,0
+307030,6755,18191,cadillac bar restaurant,212 s flores st,tommy's restaurant,107 s flores st,0
+307424,6757,20384,teppanyaki grill & buffet,6719 nw loop 410,chili's grill & bar,5790 w loop 1604 n,0
+307524,6758,19631,poppys pizza,7115 blanco rd ste 107,papa john's pizza,9902 potranco rd suite 116,0
+309303,6768,20129,gin chinese restaurant,5337 glen ridge dr ste 103,ez's restaurants,503 e ramsey rd ste 101,0
+309560,6772,19007,willies grill & icehouse,15801 san pedro ave,chili's grill & bar,17750 san pedro ave,0
+311682,6819,19912,apetitos mexican restaurant,1615 meadow way,apetito's mexican restaurant,1615 meadow way dr,1
+312375,6830,18100,mama margies mexican restaurant,9950 interstate 10 frontage rd,el rodeo de jalisco mexican restaurants,5510 interstate 10 e,0
+316204,6907,17650,wingit,5020 old seguin rd,wingit,5020 seguin rd,1
+316602,6927,18657,vegeria vegan restaurant,8407 broadway ste 1,tin star restaurant,7863 callaghan rd ste 101,0
+317032,6938,19526,thai topaz,9386 huebner rd ste 101,thai topaz,9386 huebner rd ste 101,1
+318875,6953,22728,hillcrest sandwich co.,3780 5th ave ste 1,hillcrest sandwich co,3780 5th ave ste 1,1
+319589,6968,22859,minh ky chinese restaurant,4644 el cajon blvd ste 101,hoai hue restaurant,4660 el cajon blvd ste 102,0
+320799,7033,23420,boudin bakery & caf,7007 friars rd ste 357,boudin bakery,7007 friars rd ste 357,1
+320966,7048,22265,old town mexican cafe,2489 san diego ave,sombrero mexican food,8590 rio san diego dr,0
+322376,7080,20671,red sea restaurant,4717 university ave,peking restaurant,2877 university ave,0
+322994,7088,22636,mignon pho + grill,3860 convoy st ste 116,mignon pho + grill,3860 convoy st,1
+323016,7090,21065,saiko sushi,2884 university ave,lava sushi,1045 university ave,0
+323990,7137,21191,lu pizzetta,4508 cass st ste b,lu pizzetta,4508 cass st ste b,1
+324259,7142,21445,the mission cafe,3795 mission blvd,mission trails,7385 mission gorge rd,0
+325108,7171,23139,rose donuts,5201 linda vista rd ste 100,yum-yum donuts,6925 linda vista rd ste b,0
+328161,7257,20687,wood ranch bbq & grill,7510 hazard center dr ste 215,wood ranch barbecue and grill,7510 hazard center dr,1
+328282,7264,21822,the kebab shop,303 w beech st ste c-2,the kebab shop,303 w beech st,1
+329430,7290,22352,abraj mediterranean restaurant,6475 el cajon blvd,maxim's seafood restaurant,4616 el cajon blvd,0
+329505,7290,23107,abraj mediterranean restaurant,6475 el cajon blvd,awash ethiopian restaurant,4979 el cajon blvd,0
+330678,7319,23317,florent restaurant & lounge,672 5th ave,cafe sevilla restaurant,353 5th ave,0
+331398,7336,22485,hoai hue restaurant,4660 el cajon blvd ste 102,awash ethiopian restaurant market,2884 el cajon blvd,0
+333641,7418,21297,bo-beau kitchen + bar,4996 w point loma blvd,domo kitchen,9353 clairemont mesa blvd,0
+333708,7421,21919,mamas grill,7420 clairemont mesa blvd ste 104,chili's grill & bar,4060 clairemont mesa blvd,0
+335739,7502,23036,kensington cafe,4141 adams ave,kensington cafe,4141 adams ave,1
+336324,7529,22958,pizza e birra,3625 india st,pizza artigiana,1702 india st,0
+338653,7603,23374,seaport village,831 w harbor dr,asaggio pizza pasta plus seaport village,879 w harbor dr,0
+338673,7606,21467,myung in dumplings,4344 convoy st,dumpling inn,4619 convoy st ste f,0
+339680,7639,22425,casa guadalajara,4105 taylor st,casa guadalajara,4105 taylor st,1
+340020,7653,20717,rei do gado brazilian steak house,939 4th ave,greystone the steak house,658 5th ave,0
+341582,7720,22242,maritzas mexican food restaurant,3582 mount acadia blvd ste d,boll weevil restaurants,9330 clairemont mesa blvd ste e,0
+341646,7720,22955,maritzas mexican food restaurant,3582 mount acadia blvd ste d,armandos mexican food,10066 pacific heights blvd # 115,0
+342987,7767,20957,gordon biersch brewery restaurant,5010 mission ctr rd,wolf restaurant group,4150 mission blvd ste 212,0
+344084,7791,21207,deli sushi & desserts,8680 miralani dr ste 122,ob sushi sushi,4967 newport ave ste 17,0
+344431,7803,21529,aladdin cafe,5420 clairemont mesa blvd ste 101,teri cafe,7305 clairemont mesa blvd,0
+344669,7817,21738,doghouse bar & grill,3515 5th ave,fusion bar & grill,1152 7th ave,0
+344995,7825,21355,island style cafe,5950 santo rd ste k,island style cafe,5950 santo rd,1
+345369,7832,23420,85c bakery cafe,5575 balboa ave ste 330,boudin bakery,7007 friars rd ste 357,0
+345885,7854,21595,oscars mexican seafood,646 university ave,ortega's mexican bistro,141 university ave,0
+345988,7859,20767,niban japanese restaurant,7081 clairemont mesa blvd ste 101,thaigo restaurant,11720 carmel mountain rd ste 158,0
+346242,7859,23342,niban japanese restaurant,7081 clairemont mesa blvd ste 101,sala thai restaurant,6161 el cajon blvd ste a,0
+348546,7939,23163,humbertos taco shop,1015 25th st ste c,humberto's taco shop,1015 25th st,1
+349389,8000,25572,the grape restaurant,2808 greenville ave,thai thai restaurant,1731 greenville ave,0
+351411,8078,25094,casa dolores tex-mex restaurant,4906 maple ave,avilas restaurant,4714 maple ave,0
+351442,8078,25403,casa dolores tex-mex restaurant,4906 maple ave,roma's pizza & restaurant,7402 greenville ave,0
+351551,8081,24099,pera mediterranean grill,2633 mckinney ave ste 170,cedars mediterranean grill,8141 walnut hill ln ste 1200,0
+352169,8106,24216,mias tex-mex restaurant,4322 lemmon ave,gloria's restaurant,3223 lemmon ave ste 100,0
+356637,8256,25586,bolsa mercado,634 w davis st,bolsa,614 w davis st,0
+356929,8259,25572,avilas mexican restaurant,4714 maple ave,thai thai restaurant,1731 greenville ave,0
+357177,8265,23791,zizikis restaurants,11661 preston rd ste 309,riyen chinese restaurant,11404 shiloh rd ste 125,0
+357378,8265,25435,zizikis restaurants,11661 preston rd ste 309,jeannie's chinese restaurant,5441 alpha rd ste 102,0
+357648,8274,25933,sevys grill,8201 preston rd ste 100,kona grill,8687 n central expy ste 1722,0
+357850,8290,23657,snap kitchen,2222 mckinney ave ste 110,lyfe kitchen,3699 mckinney ave a-221,0
+358406,8303,24769,atomic pie,9660 audelia rd ste 117,atomic pie,9660 audelia rd #117,1
+359136,8329,26078,salum restaurant,4152 cole ave ste 103,wingstop restaurant,3400 lombardy ln ste 107,0
+359933,8376,24295,grimaldis pizzeria,8060 park ln ste 105,carmine's pizzeria,5365 spring valley rd ste 138,0
+359974,8377,25933,kona grill,northpark center 8687 n central exwy,kona grill,8687 n central expy ste 1722,1
+360355,8397,26391,dal dong ne,11445 emerald st ste 109,dal dong nae korean restaurant,11445 emerald st,1
+360434,8400,25733,momo italian kitchen,8989 forest ln ste 130,momo's italian specialties,9191 forest ln # a2,0
+360796,8404,26204,mangiamo italian restaurant,12835 preston rd ste 220,la libela restaurant,9191 forest ln ste 2,0
+361089,8420,23542,taqueria latina,6412 skillman,takueria latina,6412 skillman st,1
+361276,8423,23832,parigi restaurant,3311 oak lawn ave ste 102,dish restaurant preston hollow,8611 hillcrest ave suite 100,0
+361453,8423,25278,parigi restaurant,3311 oak lawn ave ste 102,snuffer's restaurant & bar,8411 preston rd ste 112,0
+361528,8423,25920,parigi restaurant,3311 oak lawn ave ste 102,mirabelle restaurant,17610 midway rd ste 140,0
+361563,8423,26216,parigi restaurant,3311 oak lawn ave ste 102,pappas restaurants,3520 oak lawn ave,0
+362587,8438,25556,lazy dog restaurant & bar,5100 beltline rd ste 500,phillips brothers restaurant,12900 preston rd ste 1111,0
+362807,8446,24035,seafood shack,3701 w nw hwy ste 195,marisco's seafood shack,3701 w northwest hwy,1
+363610,8471,25647,ba le restaurant,11404 shiloh rd ste 101,steel restaurant,3102 oak lawn ave ste 100,0
+363905,8482,24367,glorias restaurant,5100 belt line rd ste 864,kong china restaurant,1150 w kiest blvd ste 325,0
+364187,8485,24363,jjs cafe,10233 e nw hwy ste 434,rose cafe,8035 e r l thornton fwy ste 612,0
+365695,8521,26058,sahara restaurant,5441 alpha rd ste 110,restaurant touch up in,10850 switzer ave ste 110,0
+365785,8527,23669,mexicali restaurant,11277 e nw hwy ste 148,salum restaurant,4152 cole ave ste 103,0
+366449,8546,25777,oak cliff social club,238 w davis st,oak cliff pizza & pasta,1315 w davis st,0
+366454,8548,23782,burger street,5657 e mockingbird ln,smashburger,"5319 e mockingbird ln , ste 120",0
+366721,8553,24764,gonzalez restaurant,367 w jefferson blvd,carmen's restaurant,4717 singleton blvd,0
+369999,8614,23498,snuffers restaurant & bar,8411 preston rd ste 112,asorock restaurant & lounge,10720 miller rd ste 204,0
+370108,8614,24368,snuffers restaurant & bar,8411 preston rd ste 112,royal china restaurant,201 preston royal shopping ctr,0
+372064,8653,25227,royal wok chinese restaurant,2560 royal ln ste 100,purple cow restaurant,634 preston royal shopping ctr,0
+372107,8653,25556,royal wok chinese restaurant,2560 royal ln ste 100,phillips brothers restaurant,12900 preston rd ste 1111,0
+372144,8653,25946,royal wok chinese restaurant,2560 royal ln ste 100,chosun kalbi restaurant,2560 royal ln,0
+372160,8653,26078,royal wok chinese restaurant,2560 royal ln ste 100,wingstop restaurant,3400 lombardy ln ste 107,0
+372901,8669,25363,mais vietnamese restaurant,4812 bryan st ste 100,two rows restaurant & brewery,5500 greenville ave ste 1300,0
+373285,8685,26067,zenna,300 n akard st,zenna,300 n acred street suit 100,1
+373985,8710,23948,mr sushi japanese restaurant,4860 belt line rd,may dragon chinese restaurant,4848 belt line rd,0
+374186,8710,25653,mr sushi japanese restaurant,4860 belt line rd,chow thai restaurant,5290 belt line rd,0
+374506,8729,24364,sushi zushi,3636 mckinney ave ste 150,sushi zushi,3636 mckinney ave,1
+375030,8736,24763,bennys bagels lakewood,1901 skillman st,benny's bagels,1901 skillman st,1
+375095,8743,24762,sol irlandes,1525 main st,sol irlandes restaurant,1525 main st,1
+375335,8749,24731,gonzales mexican food restaurant,8121 bruton rd,shang hai restaurant,12817 preston rd ste 132,0
+375928,8755,23462,texas land & cattle,3130 lemmon ave.,texas land & cattle,3130 lemmon ave,1
+376498,8771,25217,emilios cafe,2006 s. ervay,new tops cafe,418 s ervay st,0
+377172,8778,25703,palomino restaurant & bar,the crescent atrium 500 crescent ct ste 165,ams restaurants,5626 preston oaks rd ste 15,0
+383294,8940,26290,henderson tap house,2323 n henderson ave ste 101-102,j blacks dallas henderson ave,2409 n henderson ave,0
+388726,9063,28440,jennys kitchen,5175 moorpark ave ste 5,the charming kitchen,1053 lincoln ave ste 100,0
+388928,9081,27265,thai elephant express,3005 silver creek rd ste 128,panda express,4898 san felipe rd ste 140,0
+389877,9110,27305,araujos mexican grill / el paisa taqueria,3070 senter rd,araujos taqueria,3070 senter rd,1
+390779,9126,26687,elements restaurant,6944 almaden expy,miro's restaurant & bar,282 almaden blvd,0
+392880,9156,26912,seven seas sushi japanese restaurant,130 e santa clara st,oros thai restaurant,6177 santa teresa blvd,0
+393084,9160,26427,quan hue restaurant,1818 tully rd ste 150,anh hong restaurant,"1818 tully, suite 150, san jose, ca95122",0
+393307,9160,28120,quan hue restaurant,1818 tully rd ste 150,sushi boat restaurant,1600 saratoga ave ste 119,0
+394387,9183,27276,goveas restaurant,1996 tully rd,pho huong vietnamese restaurant,1954 tully rd,0
+394842,9191,27845,izakaya restaurant,1335 n 1st st,teske's germania restaurant,255 n 1st st,0
+395330,9199,26918,the pizza box,148 s jackson ave,pizza box,148 s jackson ave,1
+397325,9232,28729,la peita restaurant,601 s 1st st,la penita restaurant,601 s 1st st,1
+397588,9234,28354,plaza garibaldi restaurant,1170 e santa clara st,vung tau restaurant,535 e santa clara st,0
+399114,9262,27907,crab & cray cajun seafood & bar,1735 e capitol expy,crab & cray cajun seafood & bar,1735 e capitol expy,1
+401719,9320,26448,beach hut deli,2081 camden ave,beach hut deli,2081 camden ave,1
+402915,9356,27280,kims sandwiches,1816 tully rd,long phung sandwich & food,2145 tully rd,0
+403590,9379,26494,chick-fil-a,53 headquarters dr,chick-fil-a,53 headquarters dr,1
+404655,9391,27239,taqueria la taquiza,1447 bird ave,taqueria la paquiza,1409 bird ave,0
+405168,9406,28595,hue restaurant,3005 silver creek rd ste 190,harvest restaurant,5300 stevens creek blvd,0
+408265,9452,28718,golden buddha chinese restaurant,2768 aborn rd,new sam kee restaurant,1942 aborn rd,0
+408544,9466,27344,angies pizza italian restaurant,1535 s winchester blvd,angie's pizza,1535 s winchester blvd,1
+408787,9467,27424,b n restaurant - sizzling plate,1615 mckee rd,la enramada restaurant,1635 mckee rd,0
+412370,9519,28265,nha trang restaurant,1820 tully rd,govea's restaurant,1996 tully rd,0
+413767,9550,27571,tandoori oven,150 s 1st st ste 107,tandoori bites,3730 n 1st st,0
+413804,9555,27023,evergreen coffee company,4075 evergreen village sq ste 150,coffee chai,90 skyport dr ste 130,0
+413938,9566,27191,miyabitei japanese restaurant,675 saratoga ave,yas restaurant,1138 saratoga ave,0
+414331,9567,27845,mosaic restaurant,four points sheraton 211 s 1st st,teske's germania restaurant,255 n 1st st,0
+414435,9567,28729,mosaic restaurant,four points sheraton 211 s 1st st,la penita restaurant,601 s 1st st,0
+414593,9572,26552,red rose restaurant and catering,30 e santa clara st,flames restaurant,7170 santa teresa blvd,0
+414621,9572,26784,red rose restaurant and catering,30 e santa clara st,seven seas sushi japanese restaurant,130 e. santa clara street,0
+414882,9576,26464,the fish market,1007 blossom hill rd,boston market,880 blossom hill rd,0
+416693,9605,27875,pappageorggeo pizza,4658 pearl ave,pappageorggeo pizza,4658 pearl ave,1
+417424,9618,27543,straits restaurant - santana row,333 santana row ste 1100,el mariachi restaurant,1246 e santa clara st,0
+417813,9631,27376,wingstop,725 ridder park dr ste 80,wingstop restaurant,725 ridder park dr,1
+418955,9648,28032,puerto azul restaurant,1072 lincoln ave,taiwan restaurant-willow glen,1306 lincoln ave,0
+419214,9654,27286,soong soong restaurant,3680 stevens creek blvd ste c,thanh da restaurant,1111 story rd ste 1015,0
+420848,9707,27615,sousas restaurant,1614 alum rock ave,el grullense restaurant,1527 alum rock ave,0
+422093,9729,27993,new tung kee noodle house,262 e santa clara st,da noodle,225 e santa clara st,0
+422202,9739,27819,la victoria taqueria,1415 n 4th st,taqueria corona,601 n 4th st,0
+424761,9794,27841,savoy bar and grill,855 n 13th st,gecko grill,855 n 13th st,0
+424821,9795,28352,taqueria el gallo jr,1520 alum rock ave,mi ranchito taqueria ii,2928 alum rock ave,0
+425707,9817,28440,dalian kitchen,150 s first st ste 111,the charming kitchen,1053 lincoln ave ste 100,0
+425949,9822,27987,dong que restaurant,2852 alum rock ave,yummy restaurants,1688 alum rock ave,0
+427944,9863,26533,ca mau restaurant,2847 s white rd ste 110,el centenario restaurant,2003 story rd. ste 100,0
+429168,9878,26896,shan restaurant,4140 n 1st st ste 30,wingstop restaurant,121 curtner ave ste 30,0
+430858,9933,28257,angkorian express,2200 eastridge loop ste 1105,chinese gourmet express,2200 eastridge loop ste 9203,0

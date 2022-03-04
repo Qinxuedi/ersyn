@@ -1,0 +1,287 @@
+seq1,seq2,authors_authors_jac_qgm_3_qgm_3
+michael j. carey,"jennifer widom, adam bosworth, bruce lindsay, michael stonebraker, dan suciu",0.06666666666666668
+"jennifer widom, adam bosworth, bruce lindsay, michael stonebraker, dan suciu",michael j. carey,0.06666666666666668
+paul w. p. j. grefen,michael dertouzos,0.0
+michael dertouzos,paul w. p. j. grefen,0.0
+alfons kemper,"philip m. lewis, arthur bernstein, michael kifer",0.031746031746031744
+"philip m. lewis, arthur bernstein, michael kifer",alfons kemper,0.031746031746031744
+james geller,"ian h. witten, eibe frank",0.0
+"ian h. witten, eibe frank",james geller,0.0
+"timos k. sellis, yannis vassiliou",corporate national technical univ. of athens,0.0
+corporate national technical univ. of athens,"timos k. sellis, yannis vassiliou",0.0
+"shashi k. gadia, christian s. jensen, patrick j. hayes, ramez elmasri, sushil jajodia, james clifford","curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, yannis mitsopoulos, angelo montanari, daniel nonen, elisa peressi, barbara pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, richard thomas snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold",0.043360433604336036
+"curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, yannis mitsopoulos, angelo montanari, daniel nonen, elisa peressi, barbara pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, richard thomas snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold","shashi k. gadia, christian s. jensen, patrick j. hayes, ramez elmasri, sushil jajodia, james clifford",0.043360433604336036
+"dan suciu, bruce lindsay, j. widom, m. stonebraker, adam bosworth",michael j. carey,0.024096385542168683
+"chris floyd, m. poess","meikel p?ss, c. floyd",0.09523809523809523
+"c. floyd, meikel poess","m. p?ss, chris floyd",0.09523809523809523
+"meikel p?ss, c. floyd","chris floyd, m. poess",0.09523809523809523
+"chris floyd, meikel poess","m. p?ss, c. floyd",0.09523809523809523
+"c. floyd, meikel poess","m. p?ss, chris floyd",0.09523809523809523
+"m. p?ss, c. floyd","chris floyd, meikel poess",0.09523809523809523
+"m. p?ss, c. floyd","chris floyd, meikel poess",0.09523809523809523
+"chris floyd, meikel poess","m. p?ss, c. floyd",0.09523809523809523
+"c. floyd, meikel poess","m. p?ss, chris floyd",0.09523809523809523
+"p. valduriez, a. k. tanaka","margareth simoes, maria claudia cavalcanti, asterio tanaka, f. llirbat, p. valduriez, maria luiza campos, luc bouganim, fabio porto, e. pacitti, eric simon, fran&#231;oise fabret, marta mattoso, ana maria moura, rubens melo",0.09375
+"eric simon, patrick valduriez, maria luiza campos, f. llirbat, marta mattoso, rubens melo, margareth simoes, maria claudia cavalcanti, f. porto, ana maria moura, luc bouganim, asterio tanaka, esther pacitti, fran&#231;oise fabret","a. k. tanaka, p. valduriez",0.08080808080808081
+k. a. ross,"anant jhingran, c. h. papadimitriou, kenneth a. ross, y. e. ioannidis",0.09210526315789473
+michael dertouzos,paul w. p. j. grefen,0.0
+paul w. p. j. grefen,michael dertouzos,0.0
+"philip m. lewis, michael kifer, a. bernstein",a. kemper,0.017857142857142856
+alfons kemper,"m. kifer, philip m. lewis, a. bernstein",0.0
+a. kemper,"michael kifer, philip m. lewis, arthur bernstein",0.0
+"m. kifer, arthur bernstein, p. m. lewis",a. kemper,0.02
+a. kemper,"arthur bernstein, michael kifer, p. m. lewis",0.017857142857142856
+"philip m. lewis, arthur bernstein, michael kifer",alfons kemper,0.031746031746031744
+"philip m. lewis, a. bernstein, michael kifer",alfons kemper,0.03389830508474576
+alfons kemper,"michael kifer, a. bernstein, philip m. lewis",0.0
+"michael kifer, arthur bernstein, philip m. lewis",alfons kemper,0.0
+a. kemper,"michael kifer, philip m. lewis, arthur bernstein",0.0
+a. kemper,"a. bernstein, michael kifer, philip m. lewis",0.05555555555555555
+a. kemper,"arthur bernstein, michael kifer, p. m. lewis",0.017857142857142856
+"philip m. lewis, arthur bernstein, michael kifer",alfons kemper,0.031746031746031744
+"michael kifer, a. bernstein, p. m. lewis",a. kemper,0.019230769230769232
+a. kemper,"p. m. lewis, arthur bernstein, michael kifer",0.03636363636363636
+"p. m. lewis, michael kifer, a. bernstein",a. kemper,0.019230769230769232
+j. geller,"eibe frank, i. h. witten",0.0
+james geller,"eibe frank, i. h. witten",0.0
+"i. h. witten, e. frank",j. geller,0.0
+james geller,"ian h. witten, eibe frank",0.0
+"i. h. witten, e. frank",j. geller,0.0
+"eibe frank, i. h. witten",james geller,0.0
+james geller,"i. h. witten, eibe frank",0.0
+j. geller,"ian h. witten, e. frank",0.0
+"ian h. witten, e. frank",james geller,0.0
+"i. h. witten, e. frank",j. geller,0.0
+"ian h. witten, e. frank",james geller,0.0
+"ian h. witten, eibe frank",j. geller,0.0
+"i. h. witten, eibe frank",j. geller,0.0
+"i. h. witten, e. frank",j. geller,0.0
+"ian h. witten, e. frank",james geller,0.0
+"ian h. witten, e. frank",james geller,0.0
+"i. h. witten, eibe frank",j. geller,0.0
+"i. h. witten, eibe frank",j. geller,0.0
+"ian h. witten, eibe frank",j. geller,0.0
+j. geller,"i. h. witten, e. frank",0.0
+j. geller,"e. frank, i. h. witten",0.0
+"ian h. witten, e. frank",j. geller,0.0
+j. geller,"i. h. witten, e. frank",0.0
+james geller,"e. frank, i. h. witten",0.0
+"fernando b. galiano, nicol?s mar?n","f. berzal, n. mat&#237;n",0.06896551724137931
+"f. b. galiano, nicol?s mar?n","nicolf&#225;s mat&#237;n, fernando berzal",0.07462686567164177
+"fernando berzal, nicolf&#225;s mat&#237;n","f. b. galiano, n. mar?n",0.06349206349206349
+"fernando b. galiano, nicol?s mar?n","f. berzal, n. mat&#237;n",0.06896551724137931
+"nicolf&#225;s mat&#237;n, fernando berzal","f. b. galiano, n. mar?n",0.015151515151515154
+"fernando b. galiano, n. mar?n","f. berzal, nicolf&#225;s mat&#237;n",0.06349206349206349
+"n. mat&#237;n, f. berzal","fernando b. galiano, nicol?s mar?n",0.016393442622950817
+"n. mat&#237;n, f. berzal","fernando b. galiano, nicol?s mar?n",0.016393442622950817
+"n. mar?n, f. berzal galiano","fernando berzal, nicolf&#225;s mat&#237;n",0.09230769230769233
+"fernando berzal, n. mat&#237;n","n. mar?n, f. b. galiano",0.05555555555555555
+"fernando b. galiano, nicol?s mar?n","n. mat&#237;n, f. berzal",0.016393442622950817
+rafael camps,r. c. par&#233;,0.03333333333333333
+rafael c. par&#233;,r. camps,0.03333333333333333
+rafael c. par&#233;,r. camps,0.03333333333333333
+"a. christian k?nig, g. weikum","gerhard weikum, arnd c. k&#246;nig",0.09836065573770493
+"g. weikum, arnd c. k&#246;nig","a. christian k?nig, gerhard weikum",0.09836065573770493
+"gerhard weikum, a. christian k?nig","arnd c. k&#246;nig, g. weikum",0.09836065573770493
+"gerhard weikum, arnd c. k&#246;nig","a. christian k?nig, g. weikum",0.09836065573770493
+"arnd christian k?nig, gerhard weikum","g. weikum, a. c. k&#246;nig",0.09836065573770493
+jie wu,"j. wu, d. j. watts",0.08333333333333333
+jie wu,"j. wu, duncan j. watts",0.07142857142857142
+"a. jaime, o. d?az","oscar d&#237;az, arturo jaime",0.08695652173913042
+k. n&#248;rv&#229;g,kjetil n?rv?g,0.060606060606060615
+k. n&#248;rv&#229;g,kjetil n?rv?g,0.060606060606060615
+kjetil n?rv?g,k. n&#248;rv&#229;g,0.060606060606060615
+kjetil n&#248;rv&#229;g,k. n?rv?g,0.060606060606060615
+kjetil n?rv?g,k. n&#248;rv&#229;g,0.060606060606060615
+kjetil n?rv?g,k. n&#248;rv&#229;g,0.060606060606060615
+"erhard rahm, t. st?hr","thomas st&#246;hr, e. rahm",0.0851063829787234
+"erhard rahm, thomas st&#246;hr","t. st?hr, e. rahm",0.0851063829787234
+"erhard rahm, t. st?hr","thomas st&#246;hr, e. rahm",0.0851063829787234
+"e. rahm, thomas st&#246;hr","t. st?hr, erhard rahm",0.0851063829787234
+f. d. team,corporate fox development team microsoft,0.05882352941176471
+"t. k. sellis, yannis vassiliou",corporate national technical univ. of athens,0.0
+"yannis vassiliou, timos k. sellis",corporate national technical univ. of athens,0.012658227848101266
+corporate national technical univ. of athens,"timos k. sellis, y. vassiliou",0.0
+corporate national technical univ. of athens,"timos k. sellis, yannis vassiliou",0.0
+"t. k. sellis, yannis vassiliou",corporate national technical univ. of athens,0.0
+corporate national technical univ. of athens,"timos k. sellis, yannis vassiliou",0.0
+"t. k. sellis, yannis vassiliou",corporate national technical univ. of athens,0.0
+"yannis vassiliou, timos k. sellis",corporate national technical univ. of athens,0.012658227848101266
+"y. vassiliou, t. k. sellis",corporate national technical univ. of athens,0.013888888888888888
+"yannis vassiliou, timos k. sellis",corporate national technical univ. of athens,0.012658227848101266
+"t. k. sellis, yannis vassiliou",corporate national technical univ. of athens,0.0
+"t. k. sellis, y. vassiliou",corporate national technical univ. of athens,0.0
+"r. elmasri, patrick j. hayes, s. jajodia, christian s. jensen, shashi k. gadia, james clifford","daniel nonen, maria rita scalas, arie segev, nick kline, nandlal l. sarda, curtis dyreson, elisa peressi, r. t. snodgrass, w. k&#228;fer, b. pernici, angelo montanari, fabio grandi, nikos lorentzos, paolo tiberio, abdullah tansel, gio wiederhold, mike d. soo, yannis mitsopoulos, john f. roddick",0.04424778761061947
+"paolo tiberio, john f. roddick, gio wiederhold, abdullah tansel, arie segev, mike d. soo, daniel nonen, richard thomas snodgrass, nikos lorentzos, nick kline, fabio grandi, a. montanari, curtis dyreson, wolfgang k&#228;fer, y. mitsopoulos, maria rita scalas, nandlal l. sarda, elisa peressi, b. pernici","ramez elmasri, james clifford, c. s. jensen, patrick j. hayes, sushil jajodia, shashi k. gadia",0.045845272206303724
+"r. elmasri, patrick j. hayes, christian s. jensen, sushil jajodia, j. clifford, shashi k. gadia","mike d. soo, arie segev, a. montanari, paolo tiberio, richard thomas snodgrass, fabio grandi, curtis dyreson, elisa peressi, abdullah tansel, daniel nonen, nikos lorentzos, yannis mitsopoulos, b. pernici, gio wiederhold, john f. roddick, maria rita scalas, nandlal l. sarda, nick kline, wolfgang k&#228;fer",0.0480225988700565
+"j. clifford, patrick j. hayes, r. elmasri, c. s. jensen, shashi k. gadia, s. jajodia","y. mitsopoulos, r. thomas snodgrass, abdullah tansel, gio wiederhold, nikos lorentzos, nandlal l. sarda, maria rita scalas, john f. roddick, b. pernici, fabio grandi, arie segev, mike d. soo, elisa peressi, angelo montanari, paolo tiberio, curtis dyreson, nick kline, w. k&#228;fer, daniel nonen",0.05438066465256797
+"curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, y. mitsopoulos, a. montanari, daniel nonen, elisa peressi, barbara pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, richard thomas snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold","j. clifford, patrick j. hayes, ramez elmasri, sushil jajodia, s. k. gadia, c. s. jensen",0.040697674418604654
+"curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, y. mitsopoulos, angelo montanari, daniel nonen, elisa peressi, b. pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, richard t. snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold","s. k. gadia, christian s. jensen, p. j. hayes, ramez elmasri, s. jajodia, james clifford",0.035398230088495575
+"yannis mitsopoulos, r. thomas snodgrass, maria rita scalas, nikos lorentzos, elisa peressi, mike d. soo, curtis dyreson, nick kline, wolfgang k&#228;fer, abdullah tansel, a. montanari, b. pernici, nandlal l. sarda, daniel nonen, john f. roddick, gio wiederhold, paolo tiberio, arie segev, fabio grandi","shashi k. gadia, p. j. hayes, sushil jajodia, r. elmasri, christian s. jensen, james clifford",0.04297994269340974
+"james clifford, s. k. gadia, p. j. hayes, r. elmasri, s. jajodia, c. s. jensen","paolo tiberio, daniel nonen, gio wiederhold, curtis dyreson, nikos lorentzos, mike d. soo, nick kline, elisa peressi, abdullah tansel, barbara pernici, richard t. snodgrass, john f. roddick, a. montanari, y. mitsopoulos, arie segev, w. k&#228;fer, fabio grandi, nandlal l. sarda, maria rita scalas",0.033846153846153845
+"barbara pernici, mike d. soo, daniel nonen, john f. roddick, arie segev, w. k&#228;fer, nandlal l. sarda, nick kline, elisa peressi, gio wiederhold, paolo tiberio, abdullah tansel, richard t. snodgrass, angelo montanari, maria rita scalas, nikos lorentzos, fabio grandi, y. mitsopoulos, curtis dyreson","ramez elmasri, c. s. jensen, james clifford, sushil jajodia, p. j. hayes, shashi k. gadia",0.038011695906432746
+"ramez elmasri, patrick j. hayes, s. k. gadia, j. clifford, christian s. jensen, s. jajodia","y. mitsopoulos, arie segev, paolo tiberio, curtis dyreson, nandlal l. sarda, nick kline, fabio grandi, maria rita scalas, barbara pernici, mike d. soo, abdullah tansel, a. montanari, daniel nonen, john f. roddick, wolfgang k&#228;fer, gio wiederhold, elisa peressi, nikos lorentzos, richard thomas snodgrass",0.04956268221574344
+"patrick j. hayes, j. clifford, sushil jajodia, s. k. gadia, r. elmasri, c. s. jensen","john f. roddick, nikos lorentzos, elisa peressi, arie segev, gio wiederhold, fabio grandi, r. t. snodgrass, w. k&#228;fer, yannis mitsopoulos, paolo tiberio, abdullah tansel, angelo montanari, daniel nonen, maria rita scalas, nandlal l. sarda, mike d. soo, nick kline, barbara pernici, curtis dyreson",0.04819277108433735
+"maria rita scalas, r. t. snodgrass, nikos lorentzos, abdullah tansel, arie segev, mike d. soo, a. montanari, curtis dyreson, paolo tiberio, wolfgang k&#228;fer, daniel nonen, gio wiederhold, john f. roddick, fabio grandi, elisa peressi, b. pernici, nick kline, y. mitsopoulos, nandlal l. sarda","s. k. gadia, s. jajodia, p. j. hayes, r. elmasri, christian s. jensen, james clifford",0.039274924471299086
+"shashi k. gadia, patrick j. hayes, c. s. jensen, james clifford, r. elmasri, s. jajodia","barbara pernici, maria rita scalas, nick kline, nikos lorentzos, arie segev, abdullah tansel, fabio grandi, daniel nonen, nandlal l. sarda, mike d. soo, a. montanari, curtis dyreson, w. k&#228;fer, elisa peressi, john f. roddick, gio wiederhold, paolo tiberio, yannis mitsopoulos, richard t. snodgrass",0.05357142857142857
+"sushil jajodia, ramez elmasri, p. j. hayes, j. clifford, s. k. gadia, c. s. jensen","mike d. soo, daniel nonen, y. mitsopoulos, arie segev, elisa peressi, paolo tiberio, maria rita scalas, barbara pernici, curtis dyreson, w. k&#228;fer, nandlal l. sarda, abdullah tansel, gio wiederhold, r. t. snodgrass, john f. roddick, nick kline, nikos lorentzos, a. montanari, fabio grandi",0.03963414634146342
+"y. mitsopoulos, wolfgang k&#228;fer, john f. roddick, maria rita scalas, mike d. soo, elisa peressi, nandlal l. sarda, a. montanari, paolo tiberio, r. t. snodgrass, abdullah tansel, arie segev, gio wiederhold, nikos lorentzos, fabio grandi, b. pernici, nick kline, curtis dyreson, daniel nonen","patrick j. hayes, sushil jajodia, shashi k. gadia, j. clifford, christian s. jensen, ramez elmasri",0.03160919540229885
+"christian s. jensen, shashi k. gadia, sushil jajodia, p. j. hayes, j. clifford, r. elmasri","john f. roddick, elisa peressi, y. mitsopoulos, maria rita scalas, curtis dyreson, paolo tiberio, wolfgang k&#228;fer, gio wiederhold, nikos lorentzos, nick kline, b. pernici, daniel nonen, abdullah tansel, arie segev, nandlal l. sarda, mike d. soo, richard t. snodgrass, angelo montanari, fabio grandi",0.02890173410404624
+"maria rita scalas, john f. roddick, abdullah tansel, mike d. soo, richard t. snodgrass, daniel nonen, yannis mitsopoulos, nikos lorentzos, nandlal l. sarda, curtis dyreson, gio wiederhold, arie segev, a. montanari, nick kline, fabio grandi, barbara pernici, w. k&#228;fer, elisa peressi, paolo tiberio","ramez elmasri, j. clifford, c. s. jensen, patrick j. hayes, s. jajodia, shashi k. gadia",0.050595238095238096
+"nick kline, a. montanari, nikos lorentzos, fabio grandi, curtis dyreson, arie segev, r. thomas snodgrass, maria rita scalas, gio wiederhold, nandlal l. sarda, daniel nonen, b. pernici, abdullah tansel, mike d. soo, paolo tiberio, wolfgang k&#228;fer, john f. roddick, y. mitsopoulos, elisa peressi","sushil jajodia, patrick j. hayes, shashi k. gadia, r. elmasri, james clifford, christian s. jensen",0.04843304843304843
+"james clifford, patrick j. hayes, christian s. jensen, shashi k. gadia, ramez elmasri, sushil jajodia","nick kline, gio wiederhold, b. pernici, curtis dyreson, paolo tiberio, nikos lorentzos, maria rita scalas, elisa peressi, nandlal l. sarda, richard thomas snodgrass, arie segev, john f. roddick, abdullah tansel, w. k&#228;fer, yannis mitsopoulos, a. montanari, daniel nonen, mike d. soo, fabio grandi",0.04775280898876405
+"j. clifford, shashi k. gadia, christian s. jensen, ramez elmasri, sushil jajodia, patrick j. hayes","curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, y. mitsopoulos, angelo montanari, daniel nonen, elisa peressi, barbara pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, r. t. snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold",0.0339943342776204
+"s. k. gadia, patrick j. hayes, christian s. jensen, s. jajodia, james clifford, ramez elmasri","abdullah tansel, b. pernici, y. mitsopoulos, mike d. soo, maria rita scalas, daniel nonen, john f. roddick, nikos lorentzos, richard thomas snodgrass, nandlal l. sarda, nick kline, w. k&#228;fer, fabio grandi, arie segev, elisa peressi, paolo tiberio, gio wiederhold, a. montanari, curtis dyreson",0.05029585798816568
+"curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, yannis mitsopoulos, a. montanari, daniel nonen, elisa peressi, b. pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, richard t. snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold","j. clifford, p. j. hayes, christian s. jensen, shashi k. gadia, ramez elmasri, s. jajodia",0.02890173410404624
+"john f. roddick, y. mitsopoulos, nandlal l. sarda, gio wiederhold, nick kline, arie segev, abdullah tansel, r. t. snodgrass, daniel nonen, maria rita scalas, angelo montanari, mike d. soo, curtis dyreson, barbara pernici, paolo tiberio, nikos lorentzos, fabio grandi, elisa peressi, w. k&#228;fer","s. k. gadia, ramez elmasri, christian s. jensen, sushil jajodia, p. j. hayes, j. clifford",0.035502958579881665
+"j. clifford, sushil jajodia, ramez elmasri, shashi k. gadia, patrick j. hayes, c. s. jensen","r. thomas snodgrass, nandlal l. sarda, a. montanari, curtis dyreson, barbara pernici, fabio grandi, nikos lorentzos, elisa peressi, abdullah tansel, maria rita scalas, y. mitsopoulos, w. k&#228;fer, mike d. soo, john f. roddick, nick kline, paolo tiberio, arie segev, daniel nonen, gio wiederhold",0.03812316715542522
+"gio wiederhold, john f. roddick, paolo tiberio, nick kline, barbara pernici, curtis dyreson, abdullah tansel, a. montanari, maria rita scalas, yannis mitsopoulos, nandlal l. sarda, elisa peressi, richard t. snodgrass, mike d. soo, wolfgang k&#228;fer, arie segev, nikos lorentzos, fabio grandi, daniel nonen","ramez elmasri, j. clifford, christian s. jensen, sushil jajodia, patrick j. hayes, shashi k. gadia",0.04213483146067416
+"gio wiederhold, mike d. soo, fabio grandi, nandlal l. sarda, b. pernici, john f. roddick, elisa peressi, nikos lorentzos, w. k&#228;fer, angelo montanari, abdullah tansel, maria rita scalas, nick kline, curtis dyreson, arie segev, yannis mitsopoulos, daniel nonen, paolo tiberio, richard t. snodgrass","ramez elmasri, j. clifford, christian s. jensen, sushil jajodia, patrick j. hayes, shashi k. gadia",0.045845272206303724
+"a. montanari, nikos lorentzos, elisa peressi, fabio grandi, nick kline, mike d. soo, paolo tiberio, maria rita scalas, r. t. snodgrass, curtis dyreson, y. mitsopoulos, daniel nonen, abdullah tansel, arie segev, wolfgang k&#228;fer, barbara pernici, nandlal l. sarda, john f. roddick, gio wiederhold","patrick j. hayes, christian s. jensen, james clifford, shashi k. gadia, sushil jajodia, ramez elmasri",0.031073446327683617
+"curtis dyreson, gio wiederhold, r. thomas snodgrass, maria rita scalas, elisa peressi, nikos lorentzos, abdullah tansel, a. montanari, w. k&#228;fer, fabio grandi, john f. roddick, arie segev, paolo tiberio, y. mitsopoulos, b. pernici, daniel nonen, mike d. soo, nandlal l. sarda, nick kline","c. s. jensen, r. elmasri, s. jajodia, james clifford, s. k. gadia, p. j. hayes",0.05379746835443038
+"j. clifford, patrick j. hayes, christian s. jensen, r. elmasri, s. k. gadia, s. jajodia","barbara pernici, nick kline, gio wiederhold, richard thomas snodgrass, angelo montanari, abdullah tansel, fabio grandi, y. mitsopoulos, arie segev, nandlal l. sarda, paolo tiberio, elisa peressi, maria rita scalas, daniel nonen, curtis dyreson, john f. roddick, w. k&#228;fer, mike d. soo, nikos lorentzos",0.05309734513274336
+"john f. roddick, nandlal l. sarda, curtis dyreson, elisa peressi, r. t. snodgrass, nick kline, fabio grandi, gio wiederhold, paolo tiberio, w. k&#228;fer, b. pernici, maria rita scalas, arie segev, daniel nonen, mike d. soo, angelo montanari, abdullah tansel, yannis mitsopoulos, nikos lorentzos","s. jajodia, james clifford, shashi k. gadia, c. s. jensen, patrick j. hayes, ramez elmasri",0.04129793510324484
+"s. k. gadia, christian s. jensen, p. j. hayes, r. elmasri, sushil jajodia, j. clifford","gio wiederhold, arie segev, elisa peressi, maria rita scalas, yannis mitsopoulos, nandlal l. sarda, nick kline, curtis dyreson, mike d. soo, wolfgang k&#228;fer, angelo montanari, barbara pernici, paolo tiberio, fabio grandi, abdullah tansel, daniel nonen, nikos lorentzos, richard thomas snodgrass, john f. roddick",0.03714285714285714
+"patrick j. hayes, shashi k. gadia, james clifford, christian s. jensen, r. elmasri, sushil jajodia","yannis mitsopoulos, daniel nonen, nandlal l. sarda, mike d. soo, angelo montanari, elisa peressi, paolo tiberio, john f. roddick, nikos lorentzos, curtis dyreson, maria rita scalas, b. pernici, nick kline, w. k&#228;fer, abdullah tansel, r. thomas snodgrass, fabio grandi, gio wiederhold, arie segev",0.04857142857142857
+"fabio grandi, abdullah tansel, elisa peressi, nikos lorentzos, maria rita scalas, gio wiederhold, nandlal l. sarda, yannis mitsopoulos, richard t. snodgrass, curtis dyreson, wolfgang k&#228;fer, paolo tiberio, john f. roddick, a. montanari, nick kline, daniel nonen, mike d. soo, b. pernici, arie segev","s. k. gadia, ramez elmasri, s. jajodia, christian s. jensen, j. clifford, patrick j. hayes",0.0471976401179941
+"abdullah tansel, fabio grandi, nandlal l. sarda, curtis dyreson, mike d. soo, nick kline, gio wiederhold, paolo tiberio, y. mitsopoulos, daniel nonen, richard thomas snodgrass, arie segev, john f. roddick, elisa peressi, angelo montanari, barbara pernici, nikos lorentzos, wolfgang k&#228;fer, maria rita scalas","sushil jajodia, j. clifford, s. k. gadia, p. j. hayes, r. elmasri, christian s. jensen",0.034383954154727794
+"gio wiederhold, fabio grandi, curtis dyreson, richard t. snodgrass, nikos lorentzos, abdullah tansel, nandlal l. sarda, yannis mitsopoulos, angelo montanari, wolfgang k&#228;fer, elisa peressi, mike d. soo, john f. roddick, nick kline, paolo tiberio, maria rita scalas, arie segev, daniel nonen, b. pernici","james clifford, ramez elmasri, p. j. hayes, s. jajodia, shashi k. gadia, c. s. jensen",0.032163742690058485
+"arie segev, maria rita scalas, b. pernici, r. t. snodgrass, wolfgang k&#228;fer, daniel nonen, nikos lorentzos, paolo tiberio, curtis dyreson, abdullah tansel, nandlal l. sarda, fabio grandi, elisa peressi, nick kline, gio wiederhold, y. mitsopoulos, a. montanari, john f. roddick, mike d. soo","s. k. gadia, christian s. jensen, patrick j. hayes, r. elmasri, s. jajodia, james clifford",0.05089820359281437
+"s. k. gadia, c. s. jensen, patrick j. hayes, ramez elmasri, sushil jajodia, james clifford","arie segev, daniel nonen, yannis mitsopoulos, nandlal l. sarda, nick kline, fabio grandi, angelo montanari, paolo tiberio, abdullah tansel, elisa peressi, mike d. soo, richard thomas snodgrass, nikos lorentzos, maria rita scalas, gio wiederhold, wolfgang k&#228;fer, b. pernici, curtis dyreson, john f. roddick",0.05172413793103448
+"mike d. soo, nikos lorentzos, arie segev, abdullah tansel, paolo tiberio, nandlal l. sarda, yannis mitsopoulos, r. t. snodgrass, maria rita scalas, gio wiederhold, nick kline, john f. roddick, daniel nonen, angelo montanari, curtis dyreson, elisa peressi, w. k&#228;fer, fabio grandi, barbara pernici","s. k. gadia, christian s. jensen, ramez elmasri, s. jajodia, patrick j. hayes, j. clifford",0.0471976401179941
+"s. jajodia, c. s. jensen, james clifford, r. elmasri, p. j. hayes, s. k. gadia","maria rita scalas, w. k&#228;fer, nandlal l. sarda, barbara pernici, curtis dyreson, elisa peressi, paolo tiberio, arie segev, nick kline, daniel nonen, fabio grandi, john f. roddick, mike d. soo, y. mitsopoulos, abdullah tansel, nikos lorentzos, richard thomas snodgrass, a. montanari, gio wiederhold",0.04559270516717325
+"curtis dyreson, fabio grandi, w. k&#228;fer, nick kline, nikos lorentzos, yannis mitsopoulos, angelo montanari, daniel nonen, elisa peressi, barbara pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, richard thomas snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold","s. k. gadia, ramez elmasri, sushil jajodia, patrick j. hayes, james clifford, christian s. jensen",0.04225352112676056
+"ramez elmasri, s. jajodia, p. j. hayes, christian s. jensen, shashi k. gadia, james clifford","gio wiederhold, fabio grandi, curtis dyreson, richard t. snodgrass, nikos lorentzos, abdullah tansel, nandlal l. sarda, yannis mitsopoulos, angelo montanari, wolfgang k&#228;fer, elisa peressi, mike d. soo, john f. roddick, nick kline, paolo tiberio, maria rita scalas, arie segev, daniel nonen, b. pernici",0.03160919540229885
+"s. k. gadia, christian s. jensen, patrick j. hayes, ramez elmasri, sushil jajodia, james clifford","abdullah tansel, fabio grandi, mike d. soo, daniel nonen, y. mitsopoulos, arie segev, john f. roddick, nikos lorentzos, wolfgang k&#228;fer, a. montanari, nick kline, paolo tiberio, curtis dyreson, richard t. snodgrass, nandlal l. sarda, gio wiederhold, elisa peressi, b. pernici, maria rita scalas",0.04610951008645533
+"ramez elmasri, s. jajodia, p. j. hayes, christian s. jensen, shashi k. gadia, james clifford","curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, yannis mitsopoulos, a. montanari, daniel nonen, elisa peressi, barbara pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, r. t. snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold",0.031884057971014484
+"yannis mitsopoulos, angelo montanari, john f. roddick, arie segev, nandlal l. sarda, abdullah tansel, gio wiederhold, b. pernici, maria rita scalas, nick kline, elisa peressi, paolo tiberio, daniel nonen, fabio grandi, richard t. snodgrass, curtis dyreson, mike d. soo, nikos lorentzos, wolfgang k&#228;fer","shashi k. gadia, christian s. jensen, p. j. hayes, r. elmasri, s. jajodia, james clifford",0.034782608695652174
+"patrick j. hayes, j. clifford, sushil jajodia, s. k. gadia, r. elmasri, c. s. jensen","mike d. soo, john f. roddick, y. mitsopoulos, daniel nonen, wolfgang k&#228;fer, fabio grandi, barbara pernici, nick kline, maria rita scalas, abdullah tansel, elisa peressi, curtis dyreson, nikos lorentzos, r. thomas snodgrass, nandlal l. sarda, paolo tiberio, a. montanari, arie segev, gio wiederhold",0.04437869822485207
+"christian s. jensen, shashi k. gadia, j. clifford, s. jajodia, patrick j. hayes, r. elmasri","nikos lorentzos, nandlal l. sarda, maria rita scalas, abdullah tansel, barbara pernici, y. mitsopoulos, elisa peressi, daniel nonen, curtis dyreson, richard thomas snodgrass, nick kline, john f. roddick, fabio grandi, a. montanari, w. k&#228;fer, gio wiederhold, mike d. soo, paolo tiberio, arie segev",0.04398826979472141
+"j. clifford, shashi k. gadia, r. elmasri, p. j. hayes, sushil jajodia, c. s. jensen","paolo tiberio, richard t. snodgrass, angelo montanari, abdullah tansel, curtis dyreson, mike d. soo, barbara pernici, arie segev, yannis mitsopoulos, nikos lorentzos, elisa peressi, gio wiederhold, nick kline, daniel nonen, fabio grandi, maria rita scalas, nandlal l. sarda, w. k&#228;fer, john f. roddick",0.029411764705882356
+"p. j. hayes, christian s. jensen, shashi k. gadia, j. clifford, ramez elmasri, sushil jajodia","maria rita scalas, angelo montanari, mike d. soo, curtis dyreson, wolfgang k&#228;fer, abdullah tansel, gio wiederhold, barbara pernici, arie segev, nandlal l. sarda, r. thomas snodgrass, nikos lorentzos, nick kline, elisa peressi, y. mitsopoulos, john f. roddick, fabio grandi, daniel nonen, paolo tiberio",0.03672316384180791
+"r. elmasri, c. s. jensen, p. j. hayes, s. k. gadia, j. clifford, s. jajodia","arie segev, abdullah tansel, daniel nonen, curtis dyreson, maria rita scalas, r. thomas snodgrass, nikos lorentzos, y. mitsopoulos, gio wiederhold, angelo montanari, wolfgang k&#228;fer, fabio grandi, paolo tiberio, john f. roddick, mike d. soo, nick kline, barbara pernici, elisa peressi, nandlal l. sarda",0.04559270516717325
+"wolfgang k&#228;fer, nick kline, paolo tiberio, angelo montanari, maria rita scalas, daniel nonen, elisa peressi, fabio grandi, abdullah tansel, nikos lorentzos, barbara pernici, gio wiederhold, arie segev, curtis dyreson, mike d. soo, nandlal l. sarda, richard t. snodgrass, john f. roddick, y. mitsopoulos","sushil jajodia, j. clifford, c. s. jensen, p. j. hayes, shashi k. gadia, r. elmasri",0.03508771929824561
+"mike d. soo, paolo tiberio, fabio grandi, barbara pernici, daniel nonen, abdullah tansel, john f. roddick, r. t. snodgrass, nick kline, maria rita scalas, angelo montanari, arie segev, y. mitsopoulos, nandlal l. sarda, nikos lorentzos, curtis dyreson, gio wiederhold, wolfgang k&#228;fer, elisa peressi","j. clifford, s. k. gadia, christian s. jensen, sushil jajodia, ramez elmasri, patrick j. hayes",0.04011461318051576
+"s. k. gadia, r. elmasri, christian s. jensen, p. j. hayes, sushil jajodia, j. clifford","curtis dyreson, fabio grandi, wolfgang k&#228;fer, nick kline, nikos lorentzos, yannis mitsopoulos, angelo montanari, daniel nonen, elisa peressi, barbara pernici, john f. roddick, nandlal l. sarda, maria rita scalas, arie segev, richard thomas snodgrass, mike d. soo, abdullah tansel, paolo tiberio, gio wiederhold",0.03714285714285714
+"wolfgang k&#228;fer, mike d. soo, elisa peressi, arie segev, maria rita scalas, daniel nonen, gio wiederhold, fabio grandi, r. t. snodgrass, curtis dyreson, yannis mitsopoulos, b. pernici, angelo montanari, paolo tiberio, nandlal l. sarda, nikos lorentzos, john f. roddick, nick kline, abdullah tansel","s. k. gadia, c. s. jensen, patrick j. hayes, ramez elmasri, s. jajodia, james clifford",0.04790419161676647
+"arie segev, yannis mitsopoulos, fabio grandi, a. montanari, curtis dyreson, nick kline, nandlal l. sarda, john f. roddick, r. thomas snodgrass, daniel nonen, maria rita scalas, paolo tiberio, mike d. soo, b. pernici, w. k&#228;fer, gio wiederhold, abdullah tansel, elisa peressi, nikos lorentzos","j. clifford, patrick j. hayes, christian s. jensen, s. k. gadia, sushil jajodia, r. elmasri",0.05
+"mike d. soo, wolfgang k&#228;fer, b. pernici, abdullah tansel, nikos lorentzos, gio wiederhold, r. t. snodgrass, nandlal l. sarda, fabio grandi, curtis dyreson, elisa peressi, arie segev, yannis mitsopoulos, nick kline, maria rita scalas, daniel nonen, a. montanari, john f. roddick, paolo tiberio","s. jajodia, ramez elmasri, james clifford, shashi k. gadia, c. s. jensen, patrick j. hayes",0.0469208211143695
+"fernando b. galiano, n. mar?n","f. berzal, nicol&#225;s mar&#237;n",0.08196721311475409
+"nicol?s mar?n, f. b. galiano","f. berzal, n. mar&#237;n",0.07692307692307693
+"f. berzal, n. mar&#237;n","nicol?s mar?n, fernando b. galiano",0.03333333333333333
+"f. berzal, n. mar&#237;n","fernando b. galiano, nicol?s mar?n",0.08771929824561403
+"n. mar&#237;n, fernando berzal","f. b. galiano, n. mar?n",0.07547169811320754
+"f. b. galiano, n. mar?n","n. mar&#237;n, fernando berzal",0.07547169811320754
+"nicol?s mar?n, f. b. galiano","fernando berzal, nicol&#225;s mar&#237;n",0.09230769230769233
+"fernando berzal, n. mar&#237;n","nicol?s mar?n, f. b. galiano",0.03333333333333333
+"ibrahim korpeoglu, h?seyin ?. tan","h. &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu",0.05194805194805195
+"h&#252;seyin &#214;zg&#252;r tan, ibrahim k&#246;rpeo&#487;lu","i. korpeoglu, h. ?zg?r tan",0.0625
+"i. korpeoglu, h. ?zg?r tan","h. &#214;zg&#252;r tan, ibrahim k&#246;rpeo&#487;lu",0.0821917808219178
+"h. &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu","i. korpeoglu, h?seyin ?. tan",0.08571428571428573
+"h&#252;seyin &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu","i. korpeoglu, h. ?. tan",0.08450704225352113
+"h&#252;seyin &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu","ibrahim korpeoglu, h. ?. tan",0.05128205128205128
+"h&#252;seyin &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu","ibrahim korpeoglu, h. ?. tan",0.05128205128205128
+"ibrahim k&#246;rpeo&#487;lu, h&#252;seyin &#214;zg&#252;r tan","h. ?zg?r tan, i. korpeoglu",0.0625
+"h. ?. tan, i. korpeoglu","i. k&#246;rpeo&#487;lu, h&#252;seyin &#214;zg&#252;r tan",0.08450704225352113
+"ibrahim korpeoglu, h. ?. tan","h&#252;seyin &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu",0.05128205128205128
+"ibrahim korpeoglu, h. ?zg?r tan","h. &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu",0.0821917808219178
+"h. &#214;zg&#252;r tan, i. k&#246;rpeo&#487;lu","ibrahim korpeoglu, h. ?zg?r tan",0.0821917808219178
+"jeffrey xu yu, yufei tao","y. tao, j. x. yu",0.075
+"jeffrey x. yu, y. tao","yufei tao, j. xu yu",0.07317073170731707
+"y. tao, j. x. yu","jeffrey xu yu, yufei tao",0.075
+"y. tao, j. x. yu","jeffrey xu yu, yufei tao",0.075
+"j. xu yu, yufei tao","y. tao, jeffrey x. yu",0.075
+"k. tan, b. c. ooi","beng chin ooi, kian-lee tan",0.09090909090909093
+"beng chin ooi, kian-lee tan","k. tan, b. c. ooi",0.09090909090909093
+"k. tan, beng chin ooi","b. c. ooi, kian-lee tan",0.09090909090909093
+"k. tan, b. c. ooi","beng chin ooi, kian-lee tan",0.09090909090909093
+"kian-lee tan, b. c. ooi","beng chin ooi, k. tan",0.09090909090909093
+"kian-lee tan, beng chin ooi","b. c. ooi, k. tan",0.09090909090909093
+"m. l. koc, christopher r","c. r, m. levent koc",0.09302325581395347
+"m. levent koc, c. r","christopher r, m. l. koc",0.09302325581395347
+"christopher r, m. l. koc","m. levent koc, c. r",0.09302325581395347
+"c. r, m. levent koc","m. l. koc, christopher r",0.09302325581395347
+"m. l. koc, christopher r","c. r, m. levent koc",0.09302325581395347
+"christopher r, m. l. koc","m. levent koc, c. r",0.09302325581395347
+"s. tu, christopher r","c. r, susan tu",0.027027027027027032
+"c. r, susan tu","s. tu, christopher r",0.027027027027027032
+"s. tu, c. r","christopher r, susan tu",0.027027027027027032
+"susan tu, christopher r","c. r, s. tu",0.027027027027027032
+"christopher r, s. tu","s. tu, c. r",0.09375
+"christopher r, s. tu","susan tu, c. r",0.027027027027027032
+"christopher r, s. tu","susan tu, c. r",0.027027027027027032
+"c. r, s. tu","s. tu, christopher r",0.09375
+"susan tu, c. r","christopher r, s. tu",0.027027027027027032
+"s. tu, christopher r","c. r, s. tu",0.09375
+"susan tu, c. r","christopher r, s. tu",0.027027027027027032
+"s. tu, c. r","christopher r, susan tu",0.027027027027027032
+"c. r, s. tu","s. tu, christopher r",0.09375
+"christopher r, s. tu","s. tu, c. r",0.09375
+"susan tu, christopher r","c. r, s. tu",0.027027027027027032
+"bingsheng he, jeffrey xu yu","j. x. yu, b. he",0.045454545454545456
+"jeffrey x. yu, bingsheng he","b. he, j. xu yu",0.045454545454545456
+"j. x. yu, b. he","bingsheng he, jeffrey xu yu",0.045454545454545456
+"bingsheng he, jeffrey x. yu","j. xu yu, b. he",0.045454545454545456
+"j. x. yu, b. he","bingsheng he, jeffrey xu yu",0.045454545454545456
+"y. tao, jeffrey xu yu","j. x. yu, yufei tao",0.075
+"jeffrey x. yu, y. tao","yufei tao, j. xu yu",0.07317073170731707
+"y. tao, j. xu yu","jeffrey x. yu, yufei tao",0.075
+"j. xu yu, y. tao","yufei tao, jeffrey x. yu",0.07317073170731707
+"yufei tao, jeffrey xu yu","j. x. yu, y. tao",0.07317073170731707
+"jeffrey x. yu, y. tao","yufei tao, j. xu yu",0.07317073170731707
+"jeffrey x. yu, y. tao","yufei tao, j. xu yu",0.07317073170731707
+"yufei tao, jeffrey x. yu","j. xu yu, y. tao",0.07317073170731707
+"j. xu yu, k. tan","kian-lee tan, jeffrey x. yu",0.06818181818181818
+"jeffrey x. yu, k. tan","kian-lee tan, j. xu yu",0.06818181818181818
+"kangfei zhao, j. x. yu","jeffrey xu yu, k. zhao",0.09090909090909093
+"kangfei zhao, jeffrey xu yu","j. x. yu, k. zhao",0.09090909090909093
+"jeffrey x. yu, k. zhao","kangfei zhao, j. xu yu",0.09090909090909093
+"jeffrey x. yu, k. zhao","kangfei zhao, j. xu yu",0.09090909090909093
+"b. qin, jeffrey xu yu","j. x. yu, biao qin",0.075
+"biao qin, j. xu yu","jeffrey x. yu, b. qin",0.075
+"biao qin, jeffrey x. yu","j. xu yu, b. qin",0.075
+"j. x. yu, biao qin","b. qin, jeffrey xu yu",0.075
+"jeffrey x. yu, b. qin","biao qin, j. xu yu",0.075
+"j. han, y. fu","yongjian fu, jiawei han",0.08333333333333333
+"jiawei han, yongjian fu","y. fu, j. han",0.08333333333333333
+"yongjian fu, jiawei han","j. han, y. fu",0.08333333333333333
+"jiawei han, yongjian fu","y. fu, j. han",0.08333333333333333
+"j. han, y. fu","yongjian fu, jiawei han",0.08333333333333333
+"y. fu, j. han","jiawei han, yongjian fu",0.08333333333333333
+"y. fu, j. han","jiawei han, yongjian fu",0.08333333333333333
+"jiawei han, yongjian fu","y. fu, j. han",0.08333333333333333
+"j. han, y. fu","yongjian fu, jiawei han",0.08333333333333333
+"yongjian fu, jiawei han","j. han, y. fu",0.08333333333333333
+"j. han, w. lu","wenyu lu, jiawei han",0.08823529411764706
+"w. lu, j. han","jiawei han, wenyu lu",0.08823529411764706
+"jiawei han, wenyu lu","w. lu, j. han",0.08823529411764706
+"jiawei han, wenyu lu","w. lu, j. han",0.08823529411764706
+"jiawei han, w. lu","wenyu lu, j. han",0.08823529411764706
+"wenyu lu, jiawei han","j. han, w. lu",0.08823529411764706
+"w. lu, jiawei han","j. han, wenyu lu",0.08823529411764706
+"d. l. lee, h. hu","haibo hu, dik lun lee",0.08108108108108109
+"d. l. lee, h. hu","haibo hu, dik lun lee",0.08108108108108109
+"haibo hu, d. l. lee","dik lun lee, h. hu",0.08108108108108109
+"dik lun lee, h. hu","haibo hu, d. l. lee",0.08108108108108109
+"f. li, m. du","min du, feifei li",0.06666666666666668
+"feifei li, min du","m. du, f. li",0.06666666666666668
+"j. x. yu, bingsheng he","b. he, jeffrey xu yu",0.045454545454545456
+"bingsheng he, j. xu yu","jeffrey x. yu, b. he",0.045454545454545456
+"bingsheng he, j. xu yu","jeffrey x. yu, b. he",0.045454545454545456
+"b. he, q. luo","qiong luo, bingsheng he",0.08333333333333333
+"qiong luo, bingsheng he","b. he, q. luo",0.08333333333333333
+"bingsheng he, qiong luo","q. luo, b. he",0.08333333333333333
+"bingsheng he, qiong luo","q. luo, b. he",0.08333333333333333
+"bingsheng he, qiong luo","q. luo, b. he",0.08333333333333333
+"bingsheng he, qiong luo","q. luo, b. he",0.08333333333333333
+"bingsheng he, qiong luo","q. luo, b. he",0.08333333333333333
+"q. luo, b. he","bingsheng he, qiong luo",0.08333333333333333
+"q. luo, b. he","bingsheng he, qiong luo",0.08333333333333333
+"qiong luo, bingsheng he","b. he, q. luo",0.08333333333333333
+"q. luo, b. he","bingsheng he, qiong luo",0.08333333333333333
+"q. luo, b. he","bingsheng he, qiong luo",0.08333333333333333
+"q. luo, b. he","bingsheng he, qiong luo",0.08333333333333333
+"q. luo, hejun wu","h. wu, qiong luo",0.09090909090909093
+"h. shi, x. yu","xiaohui yu, huxia shi",0.08823529411764706
+"huxia shi, xiaohui yu","x. yu, h. shi",0.08823529411764706
+"x. yu, h. shi","huxia shi, xiaohui yu",0.08823529411764706

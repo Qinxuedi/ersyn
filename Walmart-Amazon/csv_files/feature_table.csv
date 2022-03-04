@@ -1,0 +1,201 @@
+,feature_name,left_attribute,right_attribute,left_attr_tokenizer,right_attr_tokenizer,simfunction,function,function_source,is_auto_generated
+0,custom_id_custom_id_exm,custom_id,custom_id,,,exact_match,<function custom_id_custom_id_exm at 0x7fb542631730>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def custom_id_custom_id_exm(ltuple, rtuple):
+    return exact_match(ltuple[""custom_id""], rtuple[""custom_id""])",True
+1,custom_id_custom_id_anm,custom_id,custom_id,,,abs_norm,<function custom_id_custom_id_anm at 0x7fb6a5b158c8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def custom_id_custom_id_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""custom_id""], rtuple[""custom_id""])",True
+2,custom_id_custom_id_lev_dist,custom_id,custom_id,,,lev_dist,<function custom_id_custom_id_lev_dist at 0x7fb6a5b15a60>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def custom_id_custom_id_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""custom_id""], rtuple[""custom_id""])",True
+3,custom_id_custom_id_lev_sim,custom_id,custom_id,,,lev_sim,<function custom_id_custom_id_lev_sim at 0x7fb6a5b159d8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def custom_id_custom_id_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""custom_id""], rtuple[""custom_id""])",True
+4,brand_brand_jac_qgm_3_qgm_3,brand,brand,qgm_3,qgm_3,jaccard,<function brand_brand_jac_qgm_3_qgm_3 at 0x7fb6a5b157b8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""brand""]), qgm_3(rtuple[""brand""])) ",True
+5,brand_brand_cos_dlm_dc0_dlm_dc0,brand,brand,dlm_dc0,dlm_dc0,cosine,<function brand_brand_cos_dlm_dc0_dlm_dc0 at 0x7fb6a5b15840>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_cos_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return cosine(dlm_dc0(ltuple[""brand""]), dlm_dc0(rtuple[""brand""])) ",True
+6,brand_brand_jac_dlm_dc0_dlm_dc0,brand,brand,dlm_dc0,dlm_dc0,jaccard,<function brand_brand_jac_dlm_dc0_dlm_dc0 at 0x7fb6a5b15950>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_jac_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return jaccard(dlm_dc0(ltuple[""brand""]), dlm_dc0(rtuple[""brand""])) ",True
+7,brand_brand_mel,brand,brand,,,monge_elkan,<function brand_brand_mel at 0x7fb5517ec9d8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_mel(ltuple, rtuple):
+    return monge_elkan(ltuple[""brand""], rtuple[""brand""])",True
+8,brand_brand_lev_dist,brand,brand,,,lev_dist,<function brand_brand_lev_dist at 0x7fb5517ecbf8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""brand""], rtuple[""brand""])",True
+9,brand_brand_lev_sim,brand,brand,,,lev_sim,<function brand_brand_lev_sim at 0x7fb5517eca60>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""brand""], rtuple[""brand""])",True
+10,brand_brand_nmw,brand,brand,,,needleman_wunsch,<function brand_brand_nmw at 0x7fb5517ec840>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_nmw(ltuple, rtuple):
+    return needleman_wunsch(ltuple[""brand""], rtuple[""brand""])",True
+11,brand_brand_sw,brand,brand,,,smith_waterman,<function brand_brand_sw at 0x7fb5517ec7b8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def brand_brand_sw(ltuple, rtuple):
+    return smith_waterman(ltuple[""brand""], rtuple[""brand""])",True
+12,modelno_modelno_jac_qgm_3_qgm_3,modelno,modelno,qgm_3,qgm_3,jaccard,<function modelno_modelno_jac_qgm_3_qgm_3 at 0x7fb5517ecc80>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""modelno""]), qgm_3(rtuple[""modelno""])) ",True
+13,modelno_modelno_cos_dlm_dc0_dlm_dc0,modelno,modelno,dlm_dc0,dlm_dc0,cosine,<function modelno_modelno_cos_dlm_dc0_dlm_dc0 at 0x7fb5517ecd08>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_cos_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return cosine(dlm_dc0(ltuple[""modelno""]), dlm_dc0(rtuple[""modelno""])) ",True
+14,modelno_modelno_jac_dlm_dc0_dlm_dc0,modelno,modelno,dlm_dc0,dlm_dc0,jaccard,<function modelno_modelno_jac_dlm_dc0_dlm_dc0 at 0x7fb5517ece18>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_jac_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return jaccard(dlm_dc0(ltuple[""modelno""]), dlm_dc0(rtuple[""modelno""])) ",True
+15,modelno_modelno_mel,modelno,modelno,,,monge_elkan,<function modelno_modelno_mel at 0x7fb5517ecea0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_mel(ltuple, rtuple):
+    return monge_elkan(ltuple[""modelno""], rtuple[""modelno""])",True
+16,modelno_modelno_lev_dist,modelno,modelno,,,lev_dist,<function modelno_modelno_lev_dist at 0x7fb5517ecd90>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""modelno""], rtuple[""modelno""])",True
+17,modelno_modelno_lev_sim,modelno,modelno,,,lev_sim,<function modelno_modelno_lev_sim at 0x7fb5517ec8c8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""modelno""], rtuple[""modelno""])",True
+18,modelno_modelno_nmw,modelno,modelno,,,needleman_wunsch,<function modelno_modelno_nmw at 0x7fb5517ecae8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_nmw(ltuple, rtuple):
+    return needleman_wunsch(ltuple[""modelno""], rtuple[""modelno""])",True
+19,modelno_modelno_sw,modelno,modelno,,,smith_waterman,<function modelno_modelno_sw at 0x7fb466f7d048>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def modelno_modelno_sw(ltuple, rtuple):
+    return smith_waterman(ltuple[""modelno""], rtuple[""modelno""])",True
+20,title_title_jac_qgm_3_qgm_3,title,title,qgm_3,qgm_3,jaccard,<function title_title_jac_qgm_3_qgm_3 at 0x7fb466f7d0d0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""title""]), qgm_3(rtuple[""title""])) ",True
+21,title_title_cos_dlm_dc0_dlm_dc0,title,title,dlm_dc0,dlm_dc0,cosine,<function title_title_cos_dlm_dc0_dlm_dc0 at 0x7fb466f7d158>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_cos_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return cosine(dlm_dc0(ltuple[""title""]), dlm_dc0(rtuple[""title""])) ",True
+22,title_title_jac_dlm_dc0_dlm_dc0,title,title,dlm_dc0,dlm_dc0,jaccard,<function title_title_jac_dlm_dc0_dlm_dc0 at 0x7fb466f7d1e0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_jac_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return jaccard(dlm_dc0(ltuple[""title""]), dlm_dc0(rtuple[""title""])) ",True
+23,title_title_mel,title,title,,,monge_elkan,<function title_title_mel at 0x7fb466f7d268>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_mel(ltuple, rtuple):
+    return monge_elkan(ltuple[""title""], rtuple[""title""])",True
+24,title_title_lev_dist,title,title,,,lev_dist,<function title_title_lev_dist at 0x7fb466f7d2f0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""title""], rtuple[""title""])",True
+25,title_title_lev_sim,title,title,,,lev_sim,<function title_title_lev_sim at 0x7fb466f7d378>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""title""], rtuple[""title""])",True
+26,title_title_nmw,title,title,,,needleman_wunsch,<function title_title_nmw at 0x7fb466f7d400>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_nmw(ltuple, rtuple):
+    return needleman_wunsch(ltuple[""title""], rtuple[""title""])",True
+27,title_title_sw,title,title,,,smith_waterman,<function title_title_sw at 0x7fb466f7d488>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def title_title_sw(ltuple, rtuple):
+    return smith_waterman(ltuple[""title""], rtuple[""title""])",True
+28,price_price_exm,price,price,,,exact_match,<function price_price_exm at 0x7fb466f7d510>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_exm(ltuple, rtuple):
+    return exact_match(ltuple[""price""], rtuple[""price""])",True
+29,price_price_anm,price,price,,,abs_norm,<function price_price_anm at 0x7fb466f7d598>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""price""], rtuple[""price""])",True
+30,price_price_lev_dist,price,price,,,lev_dist,<function price_price_lev_dist at 0x7fb466f7d620>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""price""], rtuple[""price""])",True
+31,price_price_lev_sim,price,price,,,lev_sim,<function price_price_lev_sim at 0x7fb466f7d6a8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""price""], rtuple[""price""])",True
+32,descr_descr_jac_qgm_3_qgm_3,descr,descr,qgm_3,qgm_3,jaccard,<function descr_descr_jac_qgm_3_qgm_3 at 0x7fb466f7d730>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def descr_descr_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""descr""]), qgm_3(rtuple[""descr""])) ",True
+33,descr_descr_cos_dlm_dc0_dlm_dc0,descr,descr,dlm_dc0,dlm_dc0,cosine,<function descr_descr_cos_dlm_dc0_dlm_dc0 at 0x7fb466f7d7b8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def descr_descr_cos_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return cosine(dlm_dc0(ltuple[""descr""]), dlm_dc0(rtuple[""descr""])) ",True
+34,shipweight_shipweight_exm,shipweight,shipweight,,,exact_match,<function shipweight_shipweight_exm at 0x7fb466f7d840>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def shipweight_shipweight_exm(ltuple, rtuple):
+    return exact_match(ltuple[""shipweight""], rtuple[""shipweight""])",True
+35,shipweight_shipweight_anm,shipweight,shipweight,,,abs_norm,<function shipweight_shipweight_anm at 0x7fb466f7d8c8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def shipweight_shipweight_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""shipweight""], rtuple[""shipweight""])",True
+36,shipweight_shipweight_lev_dist,shipweight,shipweight,,,lev_dist,<function shipweight_shipweight_lev_dist at 0x7fb466f7d950>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def shipweight_shipweight_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""shipweight""], rtuple[""shipweight""])",True
+37,shipweight_shipweight_lev_sim,shipweight,shipweight,,,lev_sim,<function shipweight_shipweight_lev_sim at 0x7fb466f7d9d8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def shipweight_shipweight_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""shipweight""], rtuple[""shipweight""])",True
+38,dimensions1_dimensions1_exm,dimensions1,dimensions1,,,exact_match,<function dimensions1_dimensions1_exm at 0x7fb466f7da60>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions1_dimensions1_exm(ltuple, rtuple):
+    return exact_match(ltuple[""dimensions1""], rtuple[""dimensions1""])",True
+39,dimensions1_dimensions1_anm,dimensions1,dimensions1,,,abs_norm,<function dimensions1_dimensions1_anm at 0x7fb466f7dae8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions1_dimensions1_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""dimensions1""], rtuple[""dimensions1""])",True
+40,dimensions1_dimensions1_lev_dist,dimensions1,dimensions1,,,lev_dist,<function dimensions1_dimensions1_lev_dist at 0x7fb466f7db70>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions1_dimensions1_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""dimensions1""], rtuple[""dimensions1""])",True
+41,dimensions1_dimensions1_lev_sim,dimensions1,dimensions1,,,lev_sim,<function dimensions1_dimensions1_lev_sim at 0x7fb466f7dbf8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions1_dimensions1_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""dimensions1""], rtuple[""dimensions1""])",True
+42,dimensions2_dimensions2_exm,dimensions2,dimensions2,,,exact_match,<function dimensions2_dimensions2_exm at 0x7fb466f7dc80>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions2_dimensions2_exm(ltuple, rtuple):
+    return exact_match(ltuple[""dimensions2""], rtuple[""dimensions2""])",True
+43,dimensions2_dimensions2_anm,dimensions2,dimensions2,,,abs_norm,<function dimensions2_dimensions2_anm at 0x7fb466f7dd08>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions2_dimensions2_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""dimensions2""], rtuple[""dimensions2""])",True
+44,dimensions2_dimensions2_lev_dist,dimensions2,dimensions2,,,lev_dist,<function dimensions2_dimensions2_lev_dist at 0x7fb466f7dd90>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions2_dimensions2_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""dimensions2""], rtuple[""dimensions2""])",True
+45,dimensions2_dimensions2_lev_sim,dimensions2,dimensions2,,,lev_sim,<function dimensions2_dimensions2_lev_sim at 0x7fb466f7de18>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions2_dimensions2_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""dimensions2""], rtuple[""dimensions2""])",True
+46,dimensions3_dimensions3_exm,dimensions3,dimensions3,,,exact_match,<function dimensions3_dimensions3_exm at 0x7fb466f7dea0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions3_dimensions3_exm(ltuple, rtuple):
+    return exact_match(ltuple[""dimensions3""], rtuple[""dimensions3""])",True
+47,dimensions3_dimensions3_anm,dimensions3,dimensions3,,,abs_norm,<function dimensions3_dimensions3_anm at 0x7fb466f7df28>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions3_dimensions3_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""dimensions3""], rtuple[""dimensions3""])",True
+48,dimensions3_dimensions3_lev_dist,dimensions3,dimensions3,,,lev_dist,<function dimensions3_dimensions3_lev_dist at 0x7fb466f7f048>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions3_dimensions3_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""dimensions3""], rtuple[""dimensions3""])",True
+49,dimensions3_dimensions3_lev_sim,dimensions3,dimensions3,,,lev_sim,<function dimensions3_dimensions3_lev_sim at 0x7fb466f7f0d0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def dimensions3_dimensions3_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""dimensions3""], rtuple[""dimensions3""])",True
