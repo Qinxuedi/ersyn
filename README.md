@@ -1,13 +1,17 @@
 ## Synthesizing Entity Resolution Datasets
-===========================
 **This is a project that is aiming to synthesize entity resolution datasets.**
 
 ## Description
-===========================
+Entity resolution (ER) is a core problem in data integration. Many companies have lots of datasets where ER needs to be conducted to integrate the data. On the one hand, it is nontrivial for non-ER experts within companies to design ER solutions. On the other hand, most companies are reluctant to release their real datasets for multiple reasons (e.g., privacy issues). 
+A typical solution from the machine learning (ML) and the statistical community is to create surrogate (\aka analogous) datasets based on the real dataset, release these surrogate datasets to the public to train ML models, such that these models trained on surrogate datasets can be either directly used or be adapted for the real dataset by the companies.
+We study the problem of synthesizing surrogate ER datasets using transformer models, with the goal that the ER model trained on the synthesized dataset can be used directly on the real dataset.
+The synthesized ER datasets have the 3 following properties:
+1. **Indistinguishable Entities**: one cannot tell one entity is real or synthesized.
+2. **Performance Preservation**: the ER models trained by the real and synthesized ER datasets have similar performance on a same test set.
+3. **Privacy Preserving**: the synthesized ER datasets will not leak privacy of entites in the real ER dataset.
 
 
 ## Datasets
-===========================
 |#|Dataset|Domain|URL|
 |---|----|-----|-----|
 |1|DBLP-ACM|scholar|https://dbs.uni-leipzig.de/file/DBLP-ACM.zip
@@ -17,18 +21,17 @@
 
 
 ## Platforms
-===========================
 Code has been tested on **OS X**, **CentOS** and **Linux**.
 
 
 ## Usage
-===========================
 ### Dependencies 
 - [x] Python 3.6+
 - [x] [sklearn](https://scikit-learn.org/stable/)
 - [x] [numpy](https://github.com/numpy/numpy)
 - [x] [pandas](https://pandas.pydata.org/)
 - [x] [py_entitymatching](https://github.com/anhaidgroup/py_entitymatching)
+- [x] [The Daisy repository](https://github.com/ruclty/Daisy)
 
 
 ### How to use
@@ -41,7 +44,6 @@ python3 generate_paper.py
 
 
 ## Contributors
-===========================
 |#|Contributor|Affiliation|Contact|
 |---|----|-----|-----|
 |1|Xuedi Qin| PhD Candidate, Tsinghua University| qxd17@mails.tsinghua.edu.cn
